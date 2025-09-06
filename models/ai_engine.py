@@ -4,7 +4,7 @@ import json
 
 class AIEngine:
     """
-    Hackathon-ready AI engine using Hugging Face router API with gpt-oss models.
+    AI engine using Hugging Face router API with gpt-oss models.
     """
 
     def __init__(self):
@@ -190,3 +190,4 @@ Provide:
             except:
                 status[name] = False
         return status
+
