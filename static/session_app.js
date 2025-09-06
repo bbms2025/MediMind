@@ -44,7 +44,7 @@ if (sessionForm) {
         saveSessionToStorage(sessionInfo);
         updateSessionHistory(sessionInfo.name, sessionInfo.date);
     });
-// ...existing code...
+
 
 // Save session history to localStorage
 function saveSessionToStorage(info) {
@@ -165,9 +165,8 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
     window.addSessionMessage = addSessionMessage;
-    // ...existing code...
+   
 });
-// ...existing code...
     const response = await fetch('/api/health-query', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -176,3 +175,4 @@ document.addEventListener('DOMContentLoaded', function() {
     if (!response.ok) throw new Error('Failed to get response');
     return response.json();
 }
+
