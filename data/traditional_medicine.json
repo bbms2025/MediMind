@@ -1,0 +1,1762 @@
+[
+  {
+    "condition": "Common Cold",
+    "traditional_remedy": "Tulsi (Holy Basil) Tea",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Fresh Tulsi (Holy Basil) leaves", "Water", "Honey", "Ginger"],
+    "preparation": "Boil a handful of fresh Tulsi leaves and a small piece of crushed ginger in a cup of water for 10-15 minutes. Strain the liquid, add a teaspoon of honey, and drink it warm.",
+    "traditional_explanation": "Tulsi is considered a sacred herb that helps to balance the Kapha dosha, which is believed to be aggravated during a cold, leading to mucus production. It is thought to have properties that clear congestion and support respiratory health. [18, 22, 31]",
+    "usage_notes": "Drink 2-3 times a day. It is generally safe, but pregnant women should consult a practitioner.",
+    "wisdom_saying": "An excess of anything is poison."
+  },
+  {
+    "condition": "Headache (Tension)",
+    "traditional_remedy": "Peppermint and Ginger Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried peppermint leaves", "Fresh ginger slices", "Water"],
+    "preparation": "Steep a teaspoon of dried peppermint leaves and a few slices of fresh ginger in a cup of hot water for 10 minutes. Strain and drink.",
+    "traditional_explanation": "In TCM, tension headaches are often due to stagnant Qi (life energy) in the head. Peppermint and ginger are believed to move Qi and blood, releasing the blockage and alleviating pain. [13]",
+    "usage_notes": "Drink as needed. Avoid large amounts if you have acid reflux.",
+    "wisdom_saying": "A joyful heart is the best medicine."
+  },
+  {
+    "condition": "Minor Wounds and Scrapes",
+    "traditional_remedy": "Plantain Poultice",
+    "cultural_origin": "Native American",
+    "ingredients": ["Fresh plantain leaves (Plantago major)"],
+    "preparation": "Chew or crush fresh plantain leaves to create a poultice. Apply it directly to the clean wound and cover it with a larger leaf or a clean cloth.",
+    "traditional_explanation": "Plantain is known as 'nature's bandage.' It's believed to draw out impurities, reduce inflammation, and encourage the skin to heal.",
+    "usage_notes": "Change the poultice daily. For minor wounds only; seek medical attention for deep cuts.",
+    "wisdom_saying": "The earth provides everything we need."
+  },
+  {
+    "condition": "Stomach Ache (Indigestion)",
+    "traditional_remedy": "Mint and Lime Juice",
+    "cultural_origin": "African Traditional Medicine",
+    "ingredients": ["Fresh mint leaves", "Lime", "Warm water"],
+    "preparation": "Crush a handful of fresh mint leaves and mix with the juice of one lime in a glass of warm water.",
+    "traditional_explanation": "Mint is believed to calm the stomach and aid digestion. Lime juice is thought to help break down food and ease bloating. [2]",
+    "usage_notes": "Drink slowly after a meal. Not recommended for those with severe acid reflux.",
+    "wisdom_saying": "A healthy stomach is the root of all health."
+  },
+  {
+    "condition": "Fever",
+    "traditional_remedy": "Yarrow and Elderflower Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried yarrow flowers", "Dried elderflowers", "Water", "Honey (optional)"],
+    "preparation": "Mix equal parts of dried yarrow and elderflower. Steep one teaspoon of the mixture in a cup of hot water for 15 minutes. Strain and add honey if desired.",
+    "traditional_explanation": "This combination is a traditional diaphoretic, meaning it induces sweating. It's believed that sweating helps to 'break' a fever and cool the body down naturally.",
+    "usage_notes": "Drink up to three times a day. Stay hydrated. Consult a doctor for high or persistent fevers.",
+    "wisdom_saying": "Let your food be your medicine and your medicine be your food."
+  },
+  {
+    "condition": "Joint Pain (Arthritis)",
+    "traditional_remedy": "Turmeric Milk ('Golden Milk')",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Turmeric powder", "Milk (or a non-dairy alternative)", "Black pepper", "Honey or jaggery (optional)"],
+    "preparation": "Warm a cup of milk and stir in half a teaspoon of turmeric powder and a pinch of black pepper. Sweeten with honey or jaggery to taste. [9, 10]",
+    "traditional_explanation": "In Ayurveda, joint pain is often associated with an imbalance of the Vata dosha. Turmeric is believed to have warming and anti-inflammatory properties that pacify Vata and reduce pain and swelling. [4, 14]",
+    "usage_notes": "Drink once daily, preferably before bed. [5] Black pepper enhances the absorption of curcumin, the active compound in turmeric.",
+    "wisdom_saying": "When diet is wrong, medicine is of no use. When diet is correct, medicine is of no need."
+  },
+  {
+    "condition": "Insomnia",
+    "traditional_remedy": "Jujube Seed Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried jujube seeds (Suan Zao Ren)", "Water"],
+    "preparation": "Lightly crush a tablespoon of dried jujube seeds and simmer them in two cups of water for 20 minutes. Strain and drink the tea about an hour before bedtime.",
+    "traditional_explanation": "In TCM, insomnia is often due to a disturbance in the Shen (spirit), which is housed in the heart. Jujube seeds are believed to nourish the heart and liver blood, calm the Shen, and promote restful sleep. [39]",
+    "usage_notes": "Drink one cup before sleep. It may take a few nights of consistent use to see results.",
+    "wisdom_saying": "A good laugh and a long sleep are the two best cures for anything."
+  },
+  {
+    "condition": "Anxiety and Stress",
+    "traditional_remedy": "Ashwagandha and Warm Milk",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Ashwagandha root powder", "Milk (or a non-dairy alternative)", "Honey or maple syrup (optional)"],
+    "preparation": "Mix half to one teaspoon of Ashwagandha powder into a cup of warm milk. Add a sweetener if desired and drink before bed. [10]",
+    "traditional_explanation": "Ashwagandha is an adaptogenic herb in Ayurveda, meaning it helps the body adapt to stress. It is believed to calm the nervous system and promote a sense of stability and well-being. [3, 5, 47]",
+    "usage_notes": "Start with a lower dose to assess tolerance. Avoid during pregnancy unless advised by a practitioner.",
+    "wisdom_saying": "The greatest wealth is health."
+  },
+  {
+    "condition": "Digestive Issues (Gas and Bloating)",
+    "traditional_remedy": "Fennel and Ginger Chew",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Fennel seeds", "Fresh ginger"],
+    "preparation": "Chew a small pinch of fennel seeds and a thin slice of fresh ginger after meals.",
+    "traditional_explanation": "This combination is believed to kindle Agni (the digestive fire), which helps in the proper digestion of food and prevents the formation of gas and bloating.",
+    "usage_notes": "A small amount after meals is usually sufficient.",
+    "wisdom_saying": "Without proper digestion, even nectar is poison."
+  },
+  {
+    "condition": "Cough",
+    "traditional_remedy": "Licorice Root and Honey Syrup",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried licorice root", "Water", "Honey"],
+    "preparation": "Simmer a tablespoon of dried licorice root in a cup of water for 15 minutes. Strain the liquid and mix it with an equal amount of honey to create a syrup.",
+    "traditional_explanation": "Licorice root is traditionally used as a demulcent, which means it soothes and coats the throat, relieving irritation. Honey also has soothing properties and is a mild antibacterial. [31]",
+    "usage_notes": "Take one teaspoon as needed for a cough. Not for long-term use or for people with high blood pressure.",
+    "wisdom_saying": "Health is not valued until sickness comes."
+  },
+  {
+    "condition": "Menstrual Cramps",
+    "traditional_remedy": "Ginger and Cinnamon Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Fresh ginger", "Cinnamon stick", "Water", "Brown sugar (optional)"],
+    "preparation": "Simmer a few slices of fresh ginger and a small cinnamon stick in two cups of water for 15-20 minutes. Add a little brown sugar to taste.",
+    "traditional_explanation": "In TCM, menstrual pain is often caused by cold and stagnation in the uterus. Ginger and cinnamon are warming herbs that are believed to improve circulation, dispel cold, and move stagnant blood, thus relieving cramps.",
+    "usage_notes": "Drink warm, starting a few days before your period and during. [27, 41]",
+    "wisdom_saying": "The wise woman has her remedies."
+  },
+  {
+    "condition": "Colic in Babies",
+    "traditional_remedy": "Dill Water",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dill seeds", "Water"],
+    "preparation": "Lightly crush a teaspoon of dill seeds and steep them in a cup of boiling water for 10 minutes. Strain and cool completely.",
+    "traditional_explanation": "Dill is traditionally known as a carminative, which helps to expel gas from the digestive system. It's believed to soothe an infant's stomach and relieve the discomfort of colic.",
+    "usage_notes": "Give the baby one to two teaspoons of the cooled dill water. Always consult a pediatrician before giving any remedy to an infant.",
+    "wisdom_saying": "A mother's touch is the first medicine."
+  },
+  {
+    "condition": "Elderly Joint Stiffness",
+    "traditional_remedy": "Warm Sesame Oil Massage (Abhyanga)",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Sesame oil"],
+    "preparation": "Gently warm a small amount of sesame oil. Massage it into the stiff joints in a circular motion for 10-15 minutes.",
+    "traditional_explanation": "In Ayurveda, joint stiffness in the elderly is often attributed to an increase in the Vata dosha, which is dry and cold. Warm sesame oil is believed to be nourishing and warming, pacifying Vata and lubricating the joints. [4]",
+    "usage_notes": "Best done in the morning before a warm bath. Be careful not to make the oil too hot.",
+    "wisdom_saying": "The body is a temple, keep it pure and clean for the soul to reside in."
+  },
+  {
+    "condition": "Seasonal Allergies",
+    "traditional_remedy": "Nettle Leaf Infusion",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried nettle leaves", "Water", "Honey (optional)"],
+    "preparation": "Steep one to two teaspoons of dried nettle leaves in a cup of hot water for 10-15 minutes. Strain and add honey if desired.",
+    "traditional_explanation": "Nettle is traditionally used as a natural antihistamine. It's believed to help reduce the body's production of histamine, which causes allergy symptoms like sneezing and itching.",
+    "usage_notes": "Drink one to two cups daily during allergy season. Start taking it a few weeks before the season begins for best results.",
+    "wisdom_saying": "An ounce of prevention is worth a pound of cure."
+  },
+  {
+    "condition": "Heat Exhaustion",
+    "traditional_remedy": "Barley Water with Lemon",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Pearl barley", "Water", "Lemon", "Rock salt"],
+    "preparation": "Rinse half a cup of pearl barley and boil it in four cups of water until the barley is soft. Strain the water, let it cool, and add a squeeze of lemon juice and a pinch of rock salt.",
+    "traditional_explanation": "Barley is considered cooling in Ayurveda and is believed to help replenish fluids and electrolytes lost through sweating. Lemon and rock salt further aid in rehydration.",
+    "usage_notes": "Sip throughout the day to stay cool and hydrated in hot weather.",
+    "wisdom_saying": "Listen to your body when it whispers, so you don't have to hear it scream."
+  },
+  {
+    "condition": "Winter Blues (Seasonal Affective Disorder)",
+    "traditional_remedy": "St. John's Wort Tincture",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["St. John's Wort tincture"],
+    "preparation": "Follow the dosage instructions on the tincture bottle, usually a few drops in a small amount of water.",
+    "traditional_explanation": "St. John's Wort is traditionally known as the 'sunshine herb.' It's believed to help lift the spirits and bring light into the darkness of winter, easing mild depression.",
+    "usage_notes": "Consult with a healthcare professional before use, as it can interact with many medications, including antidepressants and birth control pills.",
+    "wisdom_saying": "Even the darkest night will end and the sun will rise."
+  },
+  {
+    "condition": "Stress and Tension",
+    "traditional_remedy": "Chamomile and Lavender Bath",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried chamomile flowers", "Dried lavender flowers", "Bathwater"],
+    "preparation": "Place a handful of dried chamomile and lavender flowers in a muslin bag or a clean sock and hang it from the tap while you run a warm bath. Let the herbs infuse the water.",
+    "traditional_explanation": "Both chamomile and lavender are traditionally known for their calming and relaxing properties. A warm bath infused with these herbs is believed to soothe the nervous system and release tension from the body. [23]",
+    "usage_notes": "Soak for at least 20 minutes before bedtime.",
+    "wisdom_saying": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time."
+  },
+  {
+    "condition": "Grief and Sadness",
+    "traditional_remedy": "Rose and Hawthorn Berry Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried rose petals", "Dried hawthorn berries", "Water", "Honey (optional)"],
+    "preparation": "Steep a teaspoon of mixed rose petals and hawthorn berries in a cup of hot water for 10-15 minutes. Strain and sweeten with honey if desired.",
+    "traditional_explanation": "Rose is associated with the heart and is believed to soothe emotional pain. Hawthorn is a traditional heart tonic, thought to strengthen and protect the heart, both physically and emotionally, during times of grief.",
+    "usage_notes": "Drink a cup when feeling overwhelmed by sadness.",
+    "wisdom_saying": "The heart that is breaking is also opening."
+  },
+  {
+    "condition": "Worry and Overthinking",
+    "traditional_remedy": "Lemon Balm Glycerite",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Lemon balm glycerite (a non-alcoholic tincture)"],
+    "preparation": "Take a few drops of lemon balm glycerite directly on the tongue or in a small amount of water.",
+    "traditional_explanation": "Lemon balm is traditionally used to calm a restless mind and ease anxious thoughts. It's believed to have a gentle, uplifting effect on the nervous system.",
+    "usage_notes": "Use as needed to quiet a busy mind. It is generally considered safe for children and adults.",
+    "wisdom_saying": "Worrying does not empty tomorrow of its sorrows, it empties today of its strength."
+  },
+  {
+    "condition": "Boosting Immunity",
+    "traditional_remedy": "Astragalus and Goji Berry Soup",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried astragalus root slices", "Dried goji berries", "Chicken or vegetable broth", "Other vegetables as desired"],
+    "preparation": "Add a few slices of astragalus root to a pot of broth and simmer for at least 30 minutes. Add goji berries and other vegetables and cook until tender.",
+    "traditional_explanation": "Astragalus is a key herb in TCM for strengthening the 'Wei Qi' or protective energy that defends the body against illness. Goji berries are believed to nourish the blood and support overall vitality. [11, 12, 35]",
+    "usage_notes": "Consume regularly, especially during cold and flu season. Remove the astragalus slices before eating.",
+    "wisdom_saying": "He who takes medicine and neglects to diet wastes the skill of the physician."
+  },
+  {
+    "condition": "Fatigue and Low Energy",
+    "traditional_remedy": "Siberian Ginseng Decoction",
+    "cultural_origin": "Russian and Chinese Folk Medicine",
+    "ingredients": ["Dried Siberian ginseng root (Eleuthero)", "Water"],
+    "preparation": "Simmer a teaspoon of Siberian ginseng root in two cups of water for 20-30 minutes. Strain and drink.",
+    "traditional_explanation": "Siberian ginseng is an adaptogen that is believed to help the body better cope with physical and mental stress, thereby increasing energy and stamina without the crash of stimulants.",
+    "usage_notes": "Drink one cup in the morning. Avoid taking it late in the day as it may interfere with sleep.",
+    "wisdom_saying": "A little bit of fatigue is a good pillow."
+  },
+  {
+    "condition": "Detoxification Support",
+    "traditional_remedy": "Dandelion and Burdock Root Tea",
+    "cultural_origin": "European and Native American Folk Medicine",
+    "ingredients": ["Dried dandelion root", "Dried burdock root", "Water"],
+    "preparation": "Simmer a teaspoon of each root in two cups of water for 15-20 minutes. Strain and drink.",
+    "traditional_explanation": "Both dandelion and burdock roots are traditional 'blood purifiers.' They are believed to support the liver and kidneys in their natural detoxification processes, helping to clear waste from the body.",
+    "usage_notes": "Drink one to two cups daily for a short period (e.g., one to two weeks).",
+    "wisdom_saying": "The doctor of the future will give no medicine, but will interest his patients in the care of the human frame, in diet, and in the cause and prevention of disease."
+  },
+  {
+    "condition": "Skin Rashes (Eczema)",
+    "traditional_remedy": "Chickweed Salve",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Fresh chickweed", "Olive oil", "Beeswax"],
+    "preparation": "Infuse fresh chickweed in olive oil over low heat for several hours. Strain the oil and gently heat it with a small amount of beeswax until melted. Pour into a jar and let it solidify.",
+    "traditional_explanation": "Chickweed is traditionally used to soothe itchy and inflamed skin conditions. It's believed to have a cooling and moisturizing effect that can provide relief from the discomfort of eczema.",
+    "usage_notes": "Apply a small amount to the affected area as needed.",
+    "wisdom_saying": "Nature, time, and patience are the three great physicians."
+  },
+  {
+    "condition": "Sore Throat",
+    "traditional_remedy": "Sage and Salt Water Gargle",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried sage leaves", "Salt", "Warm water"],
+    "preparation": "Steep a teaspoon of dried sage in a cup of warm water for 10 minutes. Strain and add half a teaspoon of salt. Gargle with the solution for 30 seconds and spit it out.",
+    "traditional_explanation": "Sage is traditionally known for its astringent and antiseptic properties, which are believed to help tighten the tissues in the throat and fight off infection. Salt helps to draw out excess fluid and reduce swelling.",
+    "usage_notes": "Gargle several times a day. Do not swallow the liquid.",
+    "wisdom_saying": "A good laugh and a long sleep are the two best cures for anything."
+  },
+  {
+    "condition": "Nausea",
+    "traditional_remedy": "Ginger and Lemon Tea",
+    "cultural_origin": "Ayurvedic and Traditional Chinese Medicine",
+    "ingredients": ["Fresh ginger", "Lemon", "Water", "Honey (optional)"],
+    "preparation": "Slice a small piece of fresh ginger and steep it in a cup of hot water with a slice of lemon for 10 minutes. Add honey to taste.",
+    "traditional_explanation": "Ginger is a well-known remedy for nausea in many traditions. It is believed to warm the stomach and calm digestive upset. Lemon provides a fresh taste and can also help to settle the stomach. [18]",
+    "usage_notes": "Sip slowly as needed.",
+    "wisdom_saying": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship."
+  },
+  {
+    "condition": "Sunburn",
+    "traditional_remedy": "Aloe Vera Gel",
+    "cultural_origin": "Various Cultures (Ancient Egyptian, Greek, etc.)",
+    "ingredients": ["Fresh aloe vera leaf"],
+    "preparation": "Cut a leaf from an aloe vera plant and split it open. Scrape out the gel and apply it directly to the sunburned skin.",
+    "traditional_explanation": "Aloe vera is known for its cooling and moisturizing properties. It is believed to reduce inflammation, soothe the skin, and promote healing.",
+    "usage_notes": "Apply several times a day. For external use only.",
+    "wisdom_saying": "The sun is a beautiful servant but a dangerous master."
+  },
+  {
+    "condition": "Bruises",
+    "traditional_remedy": "Arnica Tincture Compress",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Arnica tincture", "Water", "Clean cloth"],
+    "preparation": "Dilute a few drops of arnica tincture in a bowl of cool water. Soak a clean cloth in the solution, wring it out, and apply it to the bruise.",
+    "traditional_explanation": "Arnica is a traditional remedy for bruises and swelling. It is believed to stimulate the body's natural healing process and help to disperse the trapped blood under the skin.",
+    "usage_notes": "Do not apply to broken skin. For external use only.",
+    "wisdom_saying": "A fall into a ditch makes you wiser."
+  },
+  {
+    "condition": "Constipation",
+    "traditional_remedy": "Triphala Powder with Warm Water",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Triphala powder", "Warm water"],
+    "preparation": "Mix half to one teaspoon of Triphala powder in a cup of warm water and drink it before bed.",
+    "traditional_explanation": "Triphala is a combination of three fruits and is a classic Ayurvedic remedy for digestive health. It is not a harsh laxative but is believed to gently tone and regulate the bowels, promoting regular elimination. [25]",
+    "usage_notes": "Start with a smaller dose to see how your body responds.",
+    "wisdom_saying": "A healthy gut is a happy life."
+  },
+  {
+    "condition": "Diarrhea",
+    "traditional_remedy": "Blackberry Root Tea",
+    "cultural_origin": "Native American and European Folk Medicine",
+    "ingredients": ["Dried blackberry root", "Water"],
+    "preparation": "Simmer a teaspoon of dried blackberry root in a cup of water for 15-20 minutes. Strain and drink.",
+    "traditional_explanation": "Blackberry root is a traditional astringent, meaning it helps to tighten and tone the tissues in the intestines. This is believed to help reduce the frequency of bowel movements.",
+    "usage_notes": "Drink small amounts throughout the day. If diarrhea persists for more than a couple of days, consult a doctor.",
+    "wisdom_saying": "Let nature be thy medicine."
+  },
+  {
+    "condition": "Bladder Infection (UTI) - Early Stages",
+    "traditional_remedy": "Uva Ursi (Bearberry) Tea",
+    "cultural_origin": "Native American and European Folk Medicine",
+    "ingredients": ["Dried uva ursi leaves", "Water"],
+    "preparation": "Steep a teaspoon of dried uva ursi leaves in a cup of hot water for 10-15 minutes. Strain and drink.",
+    "traditional_explanation": "Uva ursi is a traditional urinary antiseptic. It's believed to help fight off the bacteria that can cause bladder infections.",
+    "usage_notes": "Drink up to three cups a day for a few days. Not for long-term use or for pregnant women. Consult a doctor if symptoms worsen or don't improve.",
+    "wisdom_saying": "Listen to the wisdom of the elders."
+  },
+  {
+    "condition": "Acne and Pimples",
+    "traditional_remedy": "Neem and Turmeric Paste",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Neem powder", "Turmeric powder", "Water or rose water"],
+    "preparation": "Mix a small amount of neem powder and a pinch of turmeric powder with enough water or rose water to form a paste. Apply it to the affected areas and let it dry before rinsing off.",
+    "traditional_explanation": "Neem is a powerful antibacterial and is believed to purify the blood and skin. Turmeric has anti-inflammatory properties that can help to reduce the redness and swelling of pimples. [3, 25]",
+    "usage_notes": "Use once or twice a week. Turmeric can temporarily stain the skin.",
+    "wisdom_saying": "Patience is a bitter plant, but its fruit is sweet."
+  },
+  {
+    "condition": "Dandruff",
+    "traditional_remedy": "Rosemary and Apple Cider Vinegar Hair Rinse",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Fresh or dried rosemary", "Apple cider vinegar", "Water"],
+    "preparation": "Steep a handful of rosemary in two cups of hot water for 30 minutes. Strain and let it cool. Add half a cup of apple cider vinegar to the rosemary infusion.",
+    "traditional_explanation": "Rosemary is traditionally used to stimulate the scalp and improve circulation. Apple cider vinegar is believed to help balance the pH of the scalp and clarify any buildup that can contribute to dandruff.",
+    "usage_notes": "After shampooing, pour the rinse over your hair and scalp. Massage it in and let it sit for a few minutes before rinsing with cool water.",
+    "wisdom_saying": "A healthy head of hair is a crown of glory."
+  },
+  {
+    "condition": "Cold Sores",
+    "traditional_remedy": "Melissa (Lemon Balm) Tincture",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Melissa (lemon balm) tincture", "Cotton ball"],
+    "preparation": "Apply a few drops of melissa tincture to a cotton ball and dab it gently onto the cold sore.",
+    "traditional_explanation": "Melissa is known for its antiviral properties, particularly against the herpes simplex virus that causes cold sores. It's believed to help speed up healing and reduce the frequency of outbreaks.",
+    "usage_notes": "Apply at the first sign of a cold sore (tingling sensation) and continue several times a day.",
+    "wisdom_saying": "A weed is but an unloved flower."
+  },
+  {
+    "condition": "Insect Bites and Stings",
+    "traditional_remedy": "Baking Soda and Water Paste",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Baking soda", "Water"],
+    "preparation": "Mix a small amount of baking soda with a few drops of water to create a thick paste. Apply it to the bite or sting.",
+    "traditional_explanation": "Baking soda is alkaline and is believed to help neutralize the acid in insect venom, which can reduce pain, itching, and swelling.",
+    "usage_notes": "Let the paste dry on the skin and reapply as needed. Seek medical attention for severe reactions or stings from venomous insects.",
+    "wisdom_saying": "Even a small thorn can cause great pain."
+  },
+  {
+    "condition": "Muscle Soreness",
+    "traditional_remedy": "Epsom Salt Bath",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Epsom salt (magnesium sulfate)", "Warm water"],
+    "preparation": "Add one to two cups of Epsom salt to a warm bath and soak for at least 20 minutes.",
+    "traditional_explanation": "Epsom salt is high in magnesium, which is believed to be absorbed through the skin. Magnesium plays a role in muscle relaxation and can help to ease soreness and tension.",
+    "usage_notes": "Drink a glass of water before and after the bath to stay hydrated.",
+    "wisdom_saying": "The body benefits from movement, and the mind benefits from stillness."
+  },
+  {
+    "condition": "Tired Eyes",
+    "traditional_remedy": "Cucumber Slices",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Cucumber"],
+    "preparation": "Chill a cucumber in the refrigerator and then cut two thin slices. Lie down, close your eyes, and place a slice over each eye.",
+    "traditional_explanation": "Cucumbers have a high water content and a cooling effect, which is believed to help reduce puffiness and soothe tired eyes.",
+    "usage_notes": "Relax for 10-15 minutes.",
+    "wisdom_saying": "The eyes are the windows to the soul."
+  },
+  {
+    "condition": "Bad Breath (Halitosis)",
+    "traditional_remedy": "Chewing on Parsley or Mint Leaves",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Fresh parsley or mint leaves"],
+    "preparation": "Chew on a few fresh parsley or mint leaves after a meal.",
+    "traditional_explanation": "Parsley and mint contain chlorophyll, which is believed to have a deodorizing effect and can help to freshen the breath.",
+    "usage_notes": "This is a temporary solution. Persistent bad breath may be a sign of an underlying health issue.",
+    "wisdom_saying": "A kind word is never lost."
+  },
+  {
+    "condition": "Hiccups",
+    "traditional_remedy": "A Teaspoon of Sugar",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Sugar"],
+    "preparation": "Swallow a teaspoon of dry sugar.",
+    "traditional_explanation": "The sudden sweetness is thought to overwhelm the nerve endings in the mouth and interrupt the hiccup reflex.",
+    "usage_notes": "An old and simple folk remedy. If hiccups persist for a long time, it's best to see a doctor.",
+    "wisdom_saying": "Laughter is the best medicine."
+  },
+  {
+    "condition": "Motion Sickness",
+    "traditional_remedy": "Candied Ginger",
+    "cultural_origin": "Traditional Chinese Medicine and Ayurvedic",
+    "ingredients": ["Candied ginger"],
+    "preparation": "Chew on a small piece of candied ginger before and during travel.",
+    "traditional_explanation": "Ginger is a well-known anti-nausea remedy. It is believed to calm the stomach and prevent the dizziness and nausea associated with motion sickness.",
+    "usage_notes": "A little goes a long way. Too much ginger can cause a warming sensation in the stomach.",
+    "wisdom_saying": "A smooth sea never made a skilled sailor."
+  },
+  {
+    "condition": "Memory and Concentration",
+    "traditional_remedy": "Ginkgo Biloba Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried ginkgo biloba leaves", "Water"],
+    "preparation": "Steep a teaspoon of dried ginkgo biloba leaves in a cup of hot water for 10 minutes. Strain and drink.",
+    "traditional_explanation": "Ginkgo is believed to improve blood flow to the brain, which can enhance memory and cognitive function. In TCM, it's used to support the heart and lungs, which are connected to mental clarity.",
+    "usage_notes": "Consult a healthcare professional before use, especially if you are taking blood-thinning medication.",
+    "wisdom_saying": "An investment in knowledge pays the best interest."
+  },
+  {
+    "condition": "High Blood Pressure (supportive care)",
+    "traditional_remedy": "Hawthorn Berry Infusion",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried hawthorn berries", "Water"],
+    "preparation": "Lightly crush a teaspoon of dried hawthorn berries and steep them in a cup of hot water for 15-20 minutes. Strain and drink.",
+    "traditional_explanation": "Hawthorn is a renowned heart tonic in Western herbalism. It is believed to help relax and dilate the blood vessels, which can contribute to lower blood pressure.",
+    "usage_notes": "Drink one to two cups daily. This is a supportive remedy and should not replace prescribed medication. Consult your doctor before use.",
+    "wisdom_saying": "A calm heart is a healthy heart."
+  },
+  {
+    "condition": "Low Libido",
+    "traditional_remedy": "Damiana Liqueur",
+    "cultural_origin": "Mexican Folk Medicine",
+    "ingredients": ["Dried damiana leaves", "Brandy or vodka", "Honey"],
+    "preparation": "Infuse dried damiana leaves in brandy or vodka for several weeks. Strain the liquid and sweeten it with honey.",
+    "traditional_explanation": "Damiana has a long history of use as an aphrodisiac. It is believed to increase circulation to the pelvic region and have a relaxing, mood-lifting effect.",
+    "usage_notes": "Take a small cordial glass as desired. Consume in moderation.",
+    "wisdom_saying": "Where there is love, there is life."
+  },
+  {
+    "condition": "Menopause Symptoms (Hot Flashes)",
+    "traditional_remedy": "Black Cohosh Decoction",
+    "cultural_origin": "Native American and European Folk Medicine",
+    "ingredients": ["Dried black cohosh root", "Water"],
+    "preparation": "Simmer a teaspoon of dried black cohosh root in a cup of water for 20-30 minutes. Strain and drink.",
+    "traditional_explanation": "Black cohosh is traditionally used to help balance hormones and is believed to have a cooling effect that can reduce the intensity and frequency of hot flashes.",
+    "usage_notes": "Drink one cup daily. Not for use by pregnant women or those with liver problems. Consult a practitioner for proper dosage and duration.",
+    "wisdom_saying": "The seasons of life are to be embraced."
+  },
+  {
+    "condition": "Pregnancy Nausea (Morning Sickness)",
+    "traditional_remedy": "Peppermint and Spearmint Tea",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Fresh or dried peppermint leaves", "Fresh or dried spearmint leaves", "Water"],
+    "preparation": "Steep a teaspoon of mixed peppermint and spearmint leaves in a cup of hot water for 10 minutes. Strain and sip slowly.",
+    "traditional_explanation": "Both peppermint and spearmint are known for their ability to soothe the stomach and relieve nausea. Spearmint is often considered a gentler option during pregnancy.",
+    "usage_notes": "Drink in moderation. If nausea is severe, consult a healthcare provider.",
+    "wisdom_saying": "A new life is the greatest of all blessings."
+  },
+  {
+    "condition": "Breastfeeding Support (increasing milk supply)",
+    "traditional_remedy": "Fenugreek Seed Tea",
+    "cultural_origin": "Ayurvedic and Middle Eastern Folk Medicine",
+    "ingredients": ["Fenugreek seeds", "Water"],
+    "preparation": "Lightly crush a teaspoon of fenugreek seeds and steep them in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Fenugreek is a well-known galactagogue, which means it is believed to help increase the production of breast milk.",
+    "usage_notes": "Drink one to three cups daily. Your sweat and urine may take on a maple syrup-like scent. Consult a lactation consultant before use.",
+    "wisdom_saying": "Mother's milk is the gift of life."
+  },
+  {
+    "condition": "Teething Pain in Infants",
+    "traditional_remedy": "Frozen Chamomile Tea Washcloth",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Chamomile tea bag", "Water", "Clean washcloth"],
+    "preparation": "Brew a cup of chamomile tea and let it cool. Soak a clean washcloth in the tea, wring out the excess, and place it in the freezer for a short time until it's cold and slightly slushy.",
+    "traditional_explanation": "Chamomile is a gentle calming herb, and the cold temperature helps to numb the gums and provide relief from teething pain.",
+    "usage_notes": "Allow the baby to chew on the frozen washcloth under supervision.",
+    "wisdom_saying": "This too shall pass."
+  },
+  {
+    "condition": "Cradle Cap in Infants",
+    "traditional_remedy": "Olive Oil Scalp Massage",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Olive oil"],
+    "preparation": "Gently massage a small amount of olive oil onto the baby's scalp where the cradle cap is present. Let it sit for about 15 minutes to soften the scales.",
+    "traditional_explanation": "Olive oil is a natural moisturizer that is believed to help loosen the dry, flaky skin of cradle cap, making it easier to remove.",
+    "usage_notes": "After letting the oil sit, use a soft baby brush to gently brush away the scales. Then, wash the baby's hair with a mild baby shampoo.",
+    "wisdom_saying": "A baby is a blessing."
+  },
+  {
+    "condition": "Diaper Rash",
+    "traditional_remedy": "Calendula Infused Oil",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried calendula flowers", "Olive oil"],
+    "preparation": "Fill a jar with dried calendula flowers and cover them with olive oil. Let the jar sit in a sunny spot for a few weeks to infuse. Strain the oil and store it in a clean bottle.",
+    "traditional_explanation": "Calendula is known for its gentle, skin-soothing, and anti-inflammatory properties. It is believed to help heal irritated skin and prevent infection.",
+    "usage_notes": "Apply a small amount of the infused oil to the diaper area at each diaper change. Ensure the area is clean and dry first.",
+    "wisdom_saying": "Gentle hands and a loving heart."
+  },
+  {
+    "condition": "Earache",
+    "traditional_remedy": "Mullein Flower Oil",
+    "cultural_origin": "European and Native American Folk Medicine",
+    "ingredients": ["Fresh or dried mullein flowers", "Olive oil"],
+    "preparation": "Infuse mullein flowers in olive oil for several weeks, or gently heat them in the oil for a few hours. Strain the oil well.",
+    "traditional_explanation": "Mullein flowers are traditionally used to soothe ear pain. They are believed to have a mild analgesic and anti-inflammatory effect.",
+    "usage_notes": "Place a few drops of the warm (not hot) oil into the ear canal. Do not use if the eardrum may be perforated. Consult a doctor for severe ear pain.",
+    "wisdom_saying": "It is better to hear the rebuke of the wise than for a man to hear the song of fools."
+  },
+  {
+    "condition": "Athlete's Foot",
+    "traditional_remedy": "Tea Tree Oil Foot Soak",
+    "cultural_origin": "Australian Aboriginal Medicine",
+    "ingredients": ["Tea tree oil", "Warm water"],
+    "preparation": "Add 10-15 drops of tea tree oil to a basin of warm water and soak your feet for 15-20 minutes.",
+    "traditional_explanation": "Tea tree oil is a powerful natural antifungal and is believed to kill the fungus that causes athlete's foot.",
+    "usage_notes": "Dry your feet thoroughly after soaking, especially between the toes. Do this daily until the infection clears.",
+    "wisdom_saying": "Take care of your feet, and they will take you far."
+  },
+  {
+    "condition": "Warts",
+    "traditional_remedy": "Garlic Slice Application",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Garlic clove"],
+    "preparation": "Cut a thin slice of a fresh garlic clove and place it directly on the wart. Cover it with a bandage and leave it on overnight.",
+    "traditional_explanation": "Garlic has antiviral properties and is believed to break down the wart tissue.",
+    "usage_notes": "Repeat this process nightly. It may take several weeks to see results. Be careful not to get the garlic on the surrounding healthy skin, as it can cause irritation.",
+    "wisdom_saying": "Patience and perseverance conquer all things."
+  },
+  {
+    "condition": "Hangover",
+    "traditional_remedy": "Milk Thistle Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Milk thistle seeds", "Water"],
+    "preparation": "Lightly crush a teaspoon of milk thistle seeds and simmer them in a cup of water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Milk thistle is a well-known liver-protective herb. It is believed to help the liver process alcohol and toxins more efficiently, thus easing the symptoms of a hangover.",
+    "usage_notes": "Drink a cup before and after consuming alcohol, as well as the morning after.",
+    "wisdom_saying": "The wine is sweet, but the reckoning is sour."
+  },
+  {
+    "condition": "Jet Lag",
+    "traditional_remedy": "Adaptogenic Herb Blend Tea (Ashwagandha, Rhodiola, Schisandra)",
+    "cultural_origin": "Ayurvedic, Russian, and Chinese Medicine",
+    "ingredients": ["Dried ashwagandha root", "Dried rhodiola root", "Dried schisandra berries", "Water"],
+    "preparation": "Simmer a teaspoon of a mix of these herbs in two cups of water for 20 minutes. Strain and drink.",
+    "traditional_explanation": "Adaptogens are believed to help the body's internal clock (circadian rhythm) adjust to a new time zone more easily by supporting the adrenal glands and reducing the effects of stress on the body.",
+    "usage_notes": "Drink a cup in the morning and early afternoon for a few days before, during, and after your trip.",
+    "wisdom_saying": "The journey of a thousand miles begins with a single step."
+  },
+  {
+    "condition": "Dry Skin",
+    "traditional_remedy": "Oatmeal and Honey Face Mask",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Rolled oats", "Honey", "Warm water"],
+    "preparation": "Grind a tablespoon of rolled oats into a fine powder. Mix it with a teaspoon of honey and enough warm water to form a paste. Apply it to your face and let it sit for 15 minutes before rinsing off.",
+    "traditional_explanation": "Oatmeal is soothing and moisturizing to the skin, while honey is a natural humectant, which means it draws moisture from the air into the skin.",
+    "usage_notes": "Use once or twice a week.",
+    "wisdom_saying": "Beauty is not in the face; beauty is a light in the heart."
+  },
+  {
+    "condition": "Oily Skin",
+    "traditional_remedy": "Fuller's Earth (Multani Mitti) and Rose Water Pack",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Fuller's earth (Multani Mitti)", "Rose water"],
+    "preparation": "Mix a tablespoon of Fuller's earth with enough rose water to create a smooth paste. Apply it to your face and let it dry completely before washing it off with cool water.",
+    "traditional_explanation": "Fuller's earth is a type of clay that is believed to absorb excess oil and impurities from the skin. Rose water has a toning and cooling effect.",
+    "usage_notes": "Use once a week. Do not leave it on for too long, as it can be very drying.",
+    "wisdom_saying": "A clear complexion is a reflection of inner health."
+  },
+  {
+    "condition": "Hair Loss",
+    "traditional_remedy": "Amla (Indian Gooseberry) Oil Scalp Massage",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Amla oil"],
+    "preparation": "Gently warm some amla oil and massage it into your scalp in circular motions for 10-15 minutes. Leave it on for at least an hour or overnight before washing your hair.",
+    "traditional_explanation": "Amla is rich in Vitamin C and antioxidants and is believed to nourish the hair follicles, strengthen the hair, and promote hair growth.",
+    "usage_notes": "Do this once or twice a week.",
+    "wisdom_saying": "The hair is the richest ornament of women."
+  },
+  {
+    "condition": "Brittle Nails",
+    "traditional_remedy": "Horsetail Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried horsetail", "Water"],
+    "preparation": "Steep a teaspoon of dried horsetail in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Horsetail is a plant that is very high in silica, a mineral that is essential for healthy hair, skin, and nails. It is believed to strengthen brittle nails from the inside out.",
+    "usage_notes": "Drink one cup daily. Not for long-term use without consulting a practitioner.",
+    "wisdom_saying": "From small beginnings come great things."
+  },
+  {
+    "condition": "Eye Strain",
+    "traditional_remedy": "Palming",
+    "cultural_origin": "Yogic Tradition (part of many cultures)",
+    "ingredients": ["Your hands"],
+    "preparation": "Rub your palms together vigorously until they are warm. Close your eyes and gently cup your warm palms over your eyes, without putting pressure on the eyeballs.",
+    "traditional_explanation": "The warmth and darkness are believed to relax the muscles around the eyes and relieve strain.",
+    "usage_notes": "Hold for a few minutes and repeat as needed throughout the day, especially when working on a computer.",
+    "wisdom_saying": "The eyes believe themselves; the ears believe other people."
+  },
+  {
+    "condition": "Gum Inflammation (Gingivitis)",
+    "traditional_remedy": "Oil Pulling with Coconut Oil",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Coconut oil"],
+    "preparation": "Take a tablespoon of coconut oil and swish it around in your mouth for 15-20 minutes, pulling it through your teeth. Spit it out into the trash (not the sink, as it can clog the drain).",
+    "traditional_explanation": "Oil pulling is believed to draw out toxins and bacteria from the mouth. Coconut oil has antimicrobial properties that can help to reduce the bacteria that cause gum inflammation.",
+    "usage_notes": "Do this in the morning on an empty stomach. Follow with your regular tooth brushing routine.",
+    "wisdom_saying": "A healthy mouth is a gateway to a healthy body."
+  },
+  {
+    "condition": "Toothache",
+    "traditional_remedy": "Clove Oil Application",
+    "cultural_origin": "Traditional Chinese Medicine and Ayurvedic",
+    "ingredients": ["Clove oil", "Cotton ball"],
+    "preparation": "Put a few drops of clove oil on a cotton ball and apply it to the affected tooth and surrounding gum area.",
+    "traditional_explanation": "Clove contains eugenol, a natural anesthetic and antiseptic. It is believed to numb the pain and help to fight off any infection.",
+    "usage_notes": "This is a temporary pain reliever. It's important to see a dentist for a toothache.",
+    "wisdom_saying": "The tongue is more powerful than the teeth."
+  },
+  {
+    "condition": "Allergies (Skin)",
+    "traditional_remedy": "Jewelweed Poultice",
+    "cultural_origin": "Native American",
+    "ingredients": ["Fresh jewelweed (Impatiens capensis)"],
+    "preparation": "Crush the fresh leaves and stems of the jewelweed plant to release the juice. Apply the crushed plant material as a poultice to the affected skin.",
+    "traditional_explanation": "Jewelweed is the traditional antidote to poison ivy. It is believed to contain compounds that can counteract the urushiol oil in poison ivy and soothe the allergic reaction.",
+    "usage_notes": "Apply as soon as possible after contact with poison ivy. Reapply as needed.",
+    "wisdom_saying": "Know the plants of your home."
+  },
+  {
+    "condition": "Asthma (supportive care)",
+    "traditional_remedy": "Mullein Leaf Tea",
+    "cultural_origin": "European and Native American Folk Medicine",
+    "ingredients": ["Dried mullein leaves", "Water"],
+    "preparation": "Steep a teaspoon of dried mullein leaves in a cup of hot water for 10-15 minutes. Strain the tea through a fine-mesh cloth to remove any small hairs.",
+    "traditional_explanation": "Mullein is an expectorant and is believed to help loosen and expel mucus from the lungs. It is also thought to have a soothing effect on the respiratory tract.",
+    "usage_notes": "Drink one to two cups daily. This is a supportive remedy and should not replace prescribed medication. Consult your doctor before use.",
+    "wisdom_saying": "Breathe in peace, breathe out worry."
+  },
+  {
+    "condition": "Bronchitis",
+    "traditional_remedy": "Elecampane Root Decoction",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried elecampane root", "Water"],
+    "preparation": "Simmer a teaspoon of dried elecampane root in a cup of water for 20-30 minutes. Strain and drink.",
+    "traditional_explanation": "Elecampane is a powerful expectorant and is traditionally used to help clear thick, congested mucus from the lungs. It's also believed to have a warming and stimulating effect on the respiratory system.",
+    "usage_notes": "Drink one to two cups daily. It has a bitter taste, so you may want to add honey.",
+    "wisdom_saying": "A deep breath is a moment of peace."
+  },
+  {
+    "condition": "Sinus Congestion",
+    "traditional_remedy": "Eucalyptus Steam Inhalation",
+    "cultural_origin": "Australian Aboriginal Medicine",
+    "ingredients": ["Eucalyptus essential oil", "Hot water"],
+    "preparation": "Add a few drops of eucalyptus essential oil to a bowl of hot water. Lean over the bowl, cover your head with a towel, and inhale the steam for 5-10 minutes.",
+    "traditional_explanation": "Eucalyptus is a strong decongestant and is believed to help open up the sinus passages and break up mucus.",
+    "usage_notes": "Keep your eyes closed to avoid irritation. Be careful not to burn yourself with the hot water.",
+    "wisdom_saying": "A clear head is a happy head."
+  },
+  {
+    "condition": "Laryngitis",
+    "traditional_remedy": "Marshmallow Root Cold Infusion",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried marshmallow root", "Cold water"],
+    "preparation": "Soak a tablespoon of dried marshmallow root in a cup of cold water for at least four hours, or overnight. Strain and drink.",
+    "traditional_explanation": "Marshmallow root is a demulcent and contains a high amount of mucilage, which is believed to coat and soothe the irritated vocal cords.",
+    "usage_notes": "Sip throughout the day. Rest your voice as much as possible.",
+    "wisdom_saying": "Silence is a source of great strength."
+  },
+  {
+    "condition": "Hoarseness",
+    "traditional_remedy": "Slippery Elm Lozenges",
+    "cultural_origin": "Native American",
+    "ingredients": ["Slippery elm powder", "Honey"],
+    "preparation": "Mix slippery elm powder with enough honey to form a thick paste. Roll into small balls and let them dry to form lozenges.",
+    "traditional_explanation": "Slippery elm bark is another demulcent herb that is rich in mucilage. It is believed to soothe and protect the throat, relieving hoarseness.",
+    "usage_notes": "Suck on a lozenge as needed.",
+    "wisdom_saying": "A gentle voice can be powerful."
+  },
+  {
+    "condition": "Poor Circulation (cold hands and feet)",
+    "traditional_remedy": "Cayenne Pepper in Socks",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Cayenne pepper powder"],
+    "preparation": "Sprinkle a small amount of cayenne pepper powder into your socks before putting them on.",
+    "traditional_explanation": "Cayenne pepper is a warming and stimulating herb. It is believed to increase blood flow to the feet, helping to warm them up.",
+    "usage_notes": "Use a small amount to avoid skin irritation. Do not use if you have any cuts or open sores on your feet.",
+    "wisdom_saying": "Keep your head cool and your feet warm."
+  },
+  {
+    "condition": "Varicose Veins (supportive care)",
+    "traditional_remedy": "Horse Chestnut Tincture",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Horse chestnut tincture"],
+    "preparation": "Take a few drops of horse chestnut tincture in a small amount of water, as directed on the product label.",
+    "traditional_explanation": "Horse chestnut is believed to strengthen and tone the walls of the veins, which may help to reduce the appearance of varicose veins and relieve symptoms like aching and swelling.",
+    "usage_notes": "For internal use, only use commercially prepared products from the seed, as other parts of the plant are toxic. Consult a healthcare professional before use.",
+    "wisdom_saying": "A journey of a thousand miles is taken one step at a time."
+  },
+  {
+    "condition": "Swollen Ankles",
+    "traditional_remedy": "Butcher's Broom Poultice",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried butcher's broom root", "Water"],
+    "preparation": "Grind the dried root into a powder and mix it with enough warm water to form a paste. Apply the paste to the swollen ankles and cover with a clean cloth.",
+    "traditional_explanation": "Butcher's broom is traditionally used to improve circulation and reduce swelling. It is believed to have a constricting effect on the veins.",
+    "usage_notes": "Leave the poultice on for 20-30 minutes. Elevate your legs while resting.",
+    "wisdom_saying": "Rest when you're weary."
+  },
+  {
+    "condition": "Hemorrhoids",
+    "traditional_remedy": "Witch Hazel Compress",
+    "cultural_origin": "Native American",
+    "ingredients": ["Witch hazel extract", "Cotton pads"],
+    "preparation": "Soak a cotton pad in witch hazel extract and apply it to the affected area.",
+    "traditional_explanation": "Witch hazel is an astringent and is believed to help shrink the swollen tissues of hemorrhoids and relieve itching and irritation.",
+    "usage_notes": "Apply several times a day, especially after bowel movements.",
+    "wisdom_saying": "This too shall pass."
+  },
+  {
+    "condition": "Gout (supportive care)",
+    "traditional_remedy": "Cherry Juice",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Tart cherry juice"],
+    "preparation": "Drink a glass of tart cherry juice daily.",
+    "traditional_explanation": "Cherries are believed to contain compounds that can help to lower the levels of uric acid in the body, which is the cause of gout.",
+    "usage_notes": "Choose unsweetened tart cherry juice. This is a supportive remedy and should not replace prescribed medication. Consult your doctor before use.",
+    "wisdom_saying": "An apple a day keeps the doctor away, but a cherry might keep the gout at bay."
+  },
+  {
+    "condition": "Kidney Stones (preventative)",
+    "traditional_remedy": "Chanca Piedra ('Stone Breaker') Tea",
+    "cultural_origin": "South American Folk Medicine",
+    "ingredients": ["Dried chanca piedra herb", "Water"],
+    "preparation": "Steep a teaspoon of dried chanca piedra in a cup of hot water for 10-15 minutes. Strain and drink.",
+    "traditional_explanation": "Chanca Piedra literally means 'stone breaker.' It is traditionally used to help prevent the formation of kidney stones and may help to break down existing small stones.",
+    "usage_notes": "Drink one to two cups daily. Consult a healthcare professional before use, especially if you have a history of kidney stones.",
+    "wisdom_saying": "A river cuts through rock, not because of its power, but because of its persistence."
+  },
+  {
+    "condition": "Gallstones (supportive care)",
+    "traditional_remedy": "Lemon Juice and Olive Oil Drink",
+    "cultural_origin": "Folk remedy (Mediterranean)",
+    "ingredients": ["Lemon juice", "Olive oil"],
+    "preparation": "Mix the juice of half a lemon with a tablespoon of olive oil and drink it in the morning on an empty stomach.",
+    "traditional_explanation": "This is a traditional 'liver and gallbladder flush.' It is believed to stimulate the gallbladder to release bile and may help to pass small gallstones.",
+    "usage_notes": "This remedy is controversial and should be used with caution. Consult a healthcare professional before attempting any kind of flush, as it can be dangerous if you have large gallstones.",
+    "wisdom_saying": "The greatest wealth is health."
+  },
+  {
+    "condition": "Heartburn",
+    "traditional_remedy": "A Teaspoon of Apple Cider Vinegar in Water",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Apple cider vinegar", "Water"],
+    "preparation": "Mix a teaspoon of raw, unfiltered apple cider vinegar in a glass of water and drink it.",
+    "traditional_explanation": "While it may seem counterintuitive, some believe that heartburn is caused by too little stomach acid. Apple cider vinegar is thought to help balance the pH of the stomach and improve digestion.",
+    "usage_notes": "This may not work for everyone and could make heartburn worse in some cases. Start with a small amount.",
+    "wisdom_saying": "All things in moderation."
+  },
+  {
+    "condition": "Ulcers (Stomach)",
+    "traditional_remedy": "Cabbage Juice",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Fresh cabbage"],
+    "preparation": "Juice fresh cabbage and drink about half a cup at a time.",
+    "traditional_explanation": "Cabbage juice is rich in glutamine, an amino acid that is believed to help nourish and repair the lining of the stomach.",
+    "usage_notes": "Drink fresh cabbage juice several times a day. It may cause gas in some people.",
+    "wisdom_saying": "Let food be thy medicine."
+  },
+  {
+    "condition": "Irritable Bowel Syndrome (IBS)",
+    "traditional_remedy": "Peppermint Oil Capsules",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Enteric-coated peppermint oil capsules"],
+    "preparation": "Take one capsule as directed on the product label, usually between meals.",
+    "traditional_explanation": "Peppermint is an antispasmodic and is believed to help relax the muscles of the intestines, which can relieve the cramping and bloating associated with IBS.",
+    "usage_notes": "Enteric-coated capsules are important to prevent the oil from being released in the stomach, which can cause heartburn.",
+    "wisdom_saying": "A calm gut is a happy life."
+  },
+  {
+    "condition": "Crohn's Disease and Colitis (supportive care)",
+    "traditional_remedy": "Boswellia Serrata Resin Extract",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Boswellia serrata extract capsules"],
+    "preparation": "Take as directed on the product label.",
+    "traditional_explanation": "Boswellia, also known as Indian frankincense, has anti-inflammatory properties and is believed to help reduce the inflammation in the digestive tract associated with Crohn's disease and ulcerative colitis. [14]",
+    "usage_notes": "This is a supportive remedy and should not replace prescribed medication. Consult your doctor before use.",
+    "wisdom_saying": "The journey to health is a marathon, not a sprint."
+  },
+  {
+    "condition": "Anemia (Iron-Deficiency)",
+    "traditional_remedy": "Nettle and Raspberry Leaf Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried nettle leaves", "Dried red raspberry leaves", "Water"],
+    "preparation": "Mix equal parts of nettle and raspberry leaf. Steep one to two teaspoons of the mixture in a cup of hot water for 15-20 minutes. Strain and drink.",
+    "traditional_explanation": "Both nettle and red raspberry leaf are rich in iron and other minerals. They are believed to be a gentle and easily absorbable source of iron that can help to build the blood.",
+    "usage_notes": "Drink one to three cups daily.",
+    "wisdom_saying": "A strong body is a strong mind."
+  },
+  {
+    "condition": "Diabetes (supportive care)",
+    "traditional_remedy": "Cinnamon Tea",
+    "cultural_origin": "Traditional Chinese Medicine and Ayurvedic",
+    "ingredients": ["Cinnamon stick or powder", "Water"],
+    "preparation": "Simmer a cinnamon stick in a cup of water for 10-15 minutes, or steep a teaspoon of cinnamon powder in hot water.",
+    "traditional_explanation": "Cinnamon is believed to help improve insulin sensitivity and lower blood sugar levels.",
+    "usage_notes": "Drink one to two cups daily. This is a supportive remedy and should not replace prescribed medication. Consult your doctor before use. [3]",
+    "wisdom_saying": "A little sweetness is good for the soul."
+  },
+  {
+    "condition": "High Cholesterol (supportive care)",
+    "traditional_remedy": "Garlic and Lemon Drink",
+    "cultural_origin": "Folk remedy (Mediterranean)",
+    "ingredients": ["Garlic cloves", "Lemons", "Water"],
+    "preparation": "Blend several cloves of garlic with the juice of a few lemons and a small amount of water. Take a tablespoon of this mixture daily.",
+    "traditional_explanation": "Garlic is believed to help lower LDL ('bad') cholesterol and triglycerides. Lemon is rich in antioxidants.",
+    "usage_notes": "This is a supportive remedy and should not replace prescribed medication. Consult your doctor before use.",
+    "wisdom_saying": "The first wealth is health."
+  },
+  {
+    "condition": "Hypothyroidism (supportive care)",
+    "traditional_remedy": "Seaweed (Kelp) in Diet",
+    "cultural_origin": "Japanese and other coastal cultures",
+    "ingredients": ["Kelp or other seaweed"],
+    "preparation": "Incorporate seaweed into your diet by adding it to soups, salads, or as a seasoning.",
+    "traditional_explanation": "Seaweed is a natural source of iodine, which is essential for the production of thyroid hormones.",
+    "usage_notes": "Consume in moderation, as too much iodine can also be harmful. This is a supportive remedy and should not replace prescribed medication. Consult your doctor before use.",
+    "wisdom_saying": "The sea cures all ailments of man."
+  },
+  {
+    "condition": "Hyperthyroidism (supportive care)",
+    "traditional_remedy": "Lemon Balm and Motherwort Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried lemon balm", "Dried motherwort", "Water"],
+    "preparation": "Mix equal parts of lemon balm and motherwort. Steep a teaspoon of the mixture in a cup of hot water for 10-15 minutes. Strain and drink.",
+    "traditional_explanation": "Lemon balm is believed to have a mild thyroid-suppressing effect. Motherwort is a calming herb that can help to ease the anxiety and heart palpitations that can accompany hyperthyroidism.",
+    "usage_notes": "Drink one to two cups daily. This is a supportive remedy and should not replace prescribed medication. Consult your doctor before use.",
+    "wisdom_saying": "A calm spirit is a healthy spirit."
+  },
+  {
+    "condition": "Adrenal Fatigue (supportive care)",
+    "traditional_remedy": "Licorice Root Tea (small amounts)",
+    "cultural_origin": "Traditional Chinese Medicine and Ayurvedic",
+    "ingredients": ["Dried licorice root", "Water"],
+    "preparation": "Simmer a small piece of dried licorice root in a cup of water for 10-15 minutes. Strain and drink.",
+    "traditional_explanation": "Licorice root is believed to support the adrenal glands and help the body to better manage stress. [5]",
+    "usage_notes": "Use in small amounts and for short periods only. Not for people with high blood pressure. Consult a healthcare professional before use.",
+    "wisdom_saying": "Rest and be thankful."
+  },
+  {
+    "condition": "Candida Overgrowth (supportive care)",
+    "traditional_remedy": "Pau d'Arco Tea",
+    "cultural_origin": "South American Folk Medicine",
+    "ingredients": ["Pau d'Arco inner bark", "Water"],
+    "preparation": "Simmer a tablespoon of Pau d'Arco bark in two cups of water for 20-30 minutes. Strain and drink.",
+    "traditional_explanation": "Pau d'Arco is a powerful antifungal and is believed to help fight off the overgrowth of Candida yeast in the body.",
+    "usage_notes": "Drink one to two cups daily. This should be part of a broader anti-Candida protocol, including dietary changes. Consult a healthcare professional.",
+    "wisdom_saying": "A healthy garden has a balance of all things."
+  },
+  {
+    "condition": "Parasites (Intestinal)",
+    "traditional_remedy": "Black Walnut Hull Tincture",
+    "cultural_origin": "Native American",
+    "ingredients": ["Black walnut hull tincture"],
+    "preparation": "Take a few drops of black walnut hull tincture in a small amount of water, as directed on the product label.",
+    "traditional_explanation": "Black walnut hulls are a strong antiparasitic and are traditionally used to help expel worms and other parasites from the intestines.",
+    "usage_notes": "This is a powerful remedy and should be used with caution and under the guidance of a healthcare professional. It is often used as part of a larger parasite cleanse.",
+    "wisdom_saying": "Look deep into nature, and then you will understand everything better."
+  },
+  {
+    "condition": "Shingles (supportive care)",
+    "traditional_remedy": "Oat Straw and Lemon Balm Bath",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Oat straw", "Lemon balm", "Water"],
+    "preparation": "Make a strong infusion of oat straw and lemon balm by steeping a large handful of the herbs in a pot of hot water for 30 minutes. Strain the liquid and add it to a warm bath.",
+    "traditional_explanation": "Oat straw is nourishing and calming to the nervous system, which can be helpful for the nerve pain of shingles. Lemon balm is antiviral and may help with the skin lesions.",
+    "usage_notes": "Soak for 20-30 minutes daily.",
+    "wisdom_saying": "The skin is a mirror of the soul."
+  },
+  {
+    "condition": "Chickenpox",
+    "traditional_remedy": "Neem Leaf Bath",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Fresh or dried neem leaves", "Water"],
+    "preparation": "Boil a large handful of neem leaves in a pot of water for 20 minutes. Strain the liquid and add it to a lukewarm bath.",
+    "traditional_explanation": "Neem is antiviral and is believed to help soothe the itchy blisters of chickenpox and prevent secondary bacterial infections.",
+    "usage_notes": "Soak in the bath once or twice a day.",
+    "wisdom_saying": "Patience is the best remedy for every trouble."
+  },
+  {
+    "condition": "Measles and Mumps (supportive care)",
+    "traditional_remedy": "Barley Water",
+    "cultural_origin": "Folk remedy (widespread)",
+    "ingredients": ["Pearl barley", "Water"],
+    "preparation": "Boil pearl barley in water until it is soft. Strain the water and let it cool.",
+    "traditional_explanation": "Barley water is a nourishing and easily digestible drink that can help to keep a person hydrated and provide some nutrients when they have a poor appetite due to illness.",
+    "usage_notes": "Sip throughout the day. This is a supportive care measure and not a cure. Measles and mumps can be serious, so it's important to be under the care of a doctor.",
+    "wisdom_saying": "Health is a crown that the healthy wear, but only the sick can see."
+  },
+  {
+    "condition": "Lyme Disease (supportive care)",
+    "traditional_remedy": "Japanese Knotweed Tincture",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Japanese knotweed root tincture"],
+    "preparation": "Take as directed by a qualified herbalist or as per the product label.",
+    "traditional_explanation": "Japanese knotweed contains resveratrol and is believed to have broad-spectrum antimicrobial properties. It is used by some herbalists as part of a protocol to address the complex symptoms of Lyme disease.",
+    "usage_notes": "This is a complex condition that requires comprehensive medical care. Herbal support should only be used under the guidance of a knowledgeable practitioner.",
+    "wisdom_saying": "The journey to healing is a path of many steps."
+  },
+  {
+    "condition": "Fibromyalgia (supportive care)",
+    "traditional_remedy": "Magnesium Oil Spray",
+    "cultural_origin": "Modern folk remedy",
+    "ingredients": ["Magnesium chloride flakes", "Distilled water"],
+    "preparation": "Dissolve equal parts magnesium chloride flakes in hot distilled water. Let it cool and pour it into a spray bottle.",
+    "traditional_explanation": "Many people with fibromyalgia are deficient in magnesium, which is important for muscle function and relaxation. Magnesium oil is believed to be absorbed through the skin and may help to ease muscle pain and tension.",
+    "usage_notes": "Spray onto sore muscles and rub it in. It may tingle at first. Start with a small amount.",
+    "wisdom_saying": "Listen to your body's whispers."
+  },
+  {
+    "condition": "Chronic Fatigue Syndrome (supportive care)",
+    "traditional_remedy": "Cordyceps Mushroom Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried cordyceps mushrooms", "Water"],
+    "preparation": "Simmer a few dried cordyceps mushrooms in two cups of water for 30 minutes. Strain and drink.",
+    "traditional_explanation": "Cordyceps is an adaptogenic mushroom that is believed to enhance energy, stamina, and oxygen utilization. In TCM, it is used to tonify the lungs and kidneys, which are associated with vital energy. [11, 12]",
+    "usage_notes": "Drink one cup in the morning.",
+    "wisdom_saying": "Energy flows where attention goes."
+  },
+  {
+    "condition": "Vertigo",
+    "traditional_remedy": "Ginger and Ginkgo Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Fresh ginger", "Dried ginkgo biloba leaves", "Water"],
+    "preparation": "Simmer a few slices of fresh ginger and a teaspoon of dried ginkgo leaves in two cups of water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Ginger is used to settle the stomach and reduce nausea associated with vertigo. Ginkgo is believed to improve blood flow to the inner ear and brain, which can help to improve balance.",
+    "usage_notes": "Sip slowly when feeling dizzy. Consult a doctor to determine the cause of the vertigo.",
+    "wisdom_saying": "A steady mind is a steady life."
+  },
+  {
+    "condition": "Tinnitus (ringing in the ears)",
+    "traditional_remedy": "Ginkgo Biloba and Black Sesame Seed Soup",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Ginkgo biloba nuts (from the store, not the tree)", "Black sesame seeds", "Rice", "Water"],
+    "preparation": "Cook ginkgo nuts and black sesame seeds with rice and water to make a congee (rice porridge).",
+    "traditional_explanation": "In TCM, tinnitus is often related to a deficiency in the kidneys. Ginkgo is thought to improve circulation, and black sesame seeds are believed to nourish the kidney essence.",
+    "usage_notes": "Eat a small bowl regularly.",
+    "wisdom_saying": "The ear is the gateway to the heart."
+  },
+  {
+    "condition": "Restless Legs Syndrome",
+    "traditional_remedy": "Valerian Root and Hops Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried valerian root", "Dried hops flowers", "Water"],
+    "preparation": "Steep a teaspoon of a mix of valerian root and hops in a cup of hot water for 15 minutes. Strain and drink before bed.",
+    "traditional_explanation": "Valerian and hops are both nervine relaxants. They are believed to calm the nervous system and have a mild sedative effect, which can help to ease the uncomfortable sensations of restless legs syndrome.",
+    "usage_notes": "Valerian has a strong, earthy smell that some people find unpleasant.",
+    "wisdom_saying": "A good night's sleep is a treasure."
+  },
+  {
+    "condition": "Common Cold",
+    "traditional_remedy": "Tulsi (Holy Basil) and Ginger Decoction",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Fresh Tulsi (Holy Basil) leaves", "Fresh ginger", "Water", "Honey"],
+    "preparation": "Boil a small handful of Tulsi leaves and a few slices of fresh ginger in two cups of water until the liquid is reduced by half. Strain, add a teaspoon of honey, and drink warm.",
+    "traditional_explanation": "In Ayurveda, the common cold is often seen as an imbalance of the Kapha dosha. Tulsi and ginger are considered to have warming properties that help to liquefy and expel excess mucus, clear congestion, and support the body's natural immune response. [15, 18, 22, 31]",
+    "usage_notes": "Drink 1-2 times daily. It's generally safe for most people.",
+    "wisdom_saying": "When diet is wrong, medicine is of no use. When diet is correct, medicine is of no need."
+  },
+  {
+    "condition": "Headache",
+    "traditional_remedy": "Ginger and Peppermint Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Fresh ginger slices", "Dried peppermint leaves", "Water"],
+    "preparation": "Steep a few slices of fresh ginger and a teaspoon of dried peppermint leaves in a cup of hot water for 10-15 minutes. Strain and drink.",
+    "traditional_explanation": "According to TCM, many headaches are caused by the stagnation of Qi (vital energy) and blood in the head. Ginger is believed to warm the channels and move blood, while peppermint is thought to soothe the liver and disperse stagnant Qi, thus relieving the pressure and pain. [13]",
+    "usage_notes": "Drink a cup at the onset of a headache. Can be taken 2-3 times a day.",
+    "wisdom_saying": "A wise man adapts himself to circumstances, as water shapes itself to the vessel that contains it."
+  },
+  {
+    "condition": "Minor Wounds",
+    "traditional_remedy": "Yarrow Poultice",
+    "cultural_origin": "Native American",
+    "ingredients": ["Fresh yarrow leaves"],
+    "preparation": "Crush fresh yarrow leaves to make a paste-like poultice. Apply it directly to the clean wound and cover with a clean cloth.",
+    "traditional_explanation": "Yarrow is known as 'nature's bandage' and has been used for centuries to stop bleeding. It is believed to have antiseptic properties that help prevent infection and astringent properties that aid in closing the wound.",
+    "usage_notes": "Change the poultice daily. For minor cuts and scrapes only.",
+    "wisdom_saying": "The Earth is our mother, care for her."
+  },
+  {
+    "condition": "Stomach Ache",
+    "traditional_remedy": "Bitter Leaf Tea",
+    "cultural_origin": "African Traditional Medicine",
+    "ingredients": ["Fresh bitter leaves (Vernonia amygdalina)", "Water"],
+    "preparation": "Wash and squeeze a handful of fresh bitter leaves in a small amount of water to extract the juice. Alternatively, boil the leaves in water for 5-10 minutes and drink the tea.",
+    "traditional_explanation": "Bitter leaf is traditionally used to cleanse the digestive system. It is believed that the bitter compounds stimulate bile production, which aids in digestion and helps to relieve stomach upset and bloating. [44]",
+    "usage_notes": "Drink a small glass of the juice or tea. It has a very bitter taste.",
+    "wisdom_saying": "What is bitter to the mouth is sweet to the stomach."
+  },
+  {
+    "condition": "Fever",
+    "traditional_remedy": "Willow Bark Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried willow bark", "Water"],
+    "preparation": "Simmer a teaspoon of dried willow bark in a cup of water for 10-15 minutes. Strain and drink.",
+    "traditional_explanation": "Willow bark contains salicin, a compound similar to aspirin. It has been used for centuries to reduce fever and relieve pain. It's believed to help the body to sweat, which naturally cools it down.",
+    "usage_notes": "Drink up to 3 cups a day. Do not give to children or if you are allergic to aspirin.",
+    "wisdom_saying": "A fever is the body's way of fighting."
+  },
+  {
+    "condition": "Joint Pain",
+    "traditional_remedy": "Warm Castor Oil Pack",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Castor oil", "A piece of cotton flannel", "A hot water bottle"],
+    "preparation": "Soak the cotton flannel in warm castor oil. Apply the pack to the painful joint, cover with a plastic sheet, and place a hot water bottle on top. [9]",
+    "traditional_explanation": "In Ayurveda, joint pain is often related to an accumulation of 'ama' (toxins) and an imbalance of Vata dosha. Castor oil is believed to have anti-inflammatory properties and the ability to penetrate deep into the tissues to loosen ama and soothe pain. [4, 21]",
+    "usage_notes": "Leave the pack on for 30-60 minutes. Use regularly for chronic pain.",
+    "wisdom_saying": "The body is the chariot, the senses are the horses, and the mind is the reins."
+  },
+  {
+    "condition": "Sleep Problems",
+    "traditional_remedy": "Valerian Root Infusion",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried valerian root", "Water"],
+    "preparation": "Steep one teaspoon of dried valerian root in a cup of hot water for 10-15 minutes. Strain and drink about 30 minutes before bedtime.",
+    "traditional_explanation": "Valerian is a well-known sedative and is believed to calm the nervous system and promote relaxation, making it easier to fall asleep. It is thought to work by increasing the amount of gamma-aminobutyric acid (GABA) in the brain.",
+    "usage_notes": "The smell of valerian root can be strong and unpleasant. Some people may experience vivid dreams.",
+    "wisdom_saying": "A good sleep is the best cure."
+  },
+  {
+    "condition": "Anxiety",
+    "traditional_remedy": "Chamomile and Lemon Balm Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried chamomile flowers", "Dried lemon balm leaves", "Water"],
+    "preparation": "Mix equal parts of chamomile and lemon balm. Steep a teaspoon of the mixture in a cup of hot water for 10 minutes. Strain and drink.",
+    "traditional_explanation": "Both chamomile and lemon balm are considered nervines, which are herbs that help to soothe and support the nervous system. They are believed to have a gentle calming effect that can ease anxiety and nervous tension. [30, 48]",
+    "usage_notes": "Drink 1-3 cups a day, or as needed to promote calmness.",
+    "wisdom_saying": "A calm sea does not make a skilled sailor."
+  },
+  {
+    "condition": "Digestive issues",
+    "traditional_remedy": "Triphala Churna",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Triphala powder (a mix of Amla, Bibhitaki, and Haritaki fruits)", "Warm water"],
+    "preparation": "Mix half a teaspoon of Triphala powder in a cup of warm water and drink it before bed.",
+    "traditional_explanation": "Triphala is a classic Ayurvedic formula for balancing all three doshas (Vata, Pitta, and Kapha). It is a gentle laxative and is believed to cleanse and tone the entire digestive tract, promoting regular bowel movements and improving digestion. [25]",
+    "usage_notes": "Start with a small dose to see how your body reacts. The taste is quite strong.",
+    "wisdom_saying": "A healthy stomach is the mother of all health."
+  },
+  {
+    "condition": "Women's Health (Menstrual Cramps)",
+    "traditional_remedy": "Raspberry Leaf and Ginger Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried red raspberry leaves", "Fresh ginger", "Water"],
+    "preparation": "Steep a tablespoon of dried raspberry leaves and a few slices of fresh ginger in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Red raspberry leaf is a traditional uterine tonic, believed to tone the uterine muscles and ease cramping. Ginger is a warming herb that can help to improve circulation and reduce pain. [33, 41]",
+    "usage_notes": "Drink 2-3 cups a day in the days leading up to and during your period.",
+    "wisdom_saying": "The moon and the woman are ever-changing."
+  },
+  {
+    "condition": "Children's Health (Colic)",
+    "traditional_remedy": "Catnip and Fennel Glycerite",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Vegetable glycerin", "Dried catnip", "Dried fennel seeds", "Distilled water"],
+    "preparation": "In a small jar, combine equal parts dried catnip and fennel seeds. Cover with a mixture of 3 parts vegetable glycerin and 1 part distilled water. Let it sit for 4-6 weeks, shaking daily. Strain.",
+    "traditional_explanation": "Catnip and fennel are both gentle carminatives, meaning they help to relieve gas and bloating. They are believed to relax the digestive tract and soothe the discomfort of colic in infants.",
+    "usage_notes": "Give 2-3 drops to the infant as needed. Always consult with a healthcare provider before giving herbs to a baby.",
+    "wisdom_saying": "A baby's laughter is the heart's medicine."
+  },
+  {
+    "condition": "Elderly Care (Memory Support)",
+    "traditional_remedy": "Rosemary Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Fresh or dried rosemary", "Water"],
+    "preparation": "Steep a sprig of fresh rosemary or a teaspoon of dried rosemary in a cup of hot water for 10 minutes. Strain and drink.",
+    "traditional_explanation": "Rosemary has long been associated with remembrance. It is believed to improve circulation to the brain, which can help to enhance memory and concentration.",
+    "usage_notes": "Drink one cup a day in the morning.",
+    "wisdom_saying": "Where rosemary flourishes, the woman rules."
+  },
+  {
+    "condition": "Seasonal/Environmental Issues (Allergies)",
+    "traditional_remedy": "Local Honey",
+    "cultural_origin": "Folk Remedy (Worldwide)",
+    "ingredients": ["Raw, unprocessed local honey"],
+    "preparation": "Take a teaspoon of local honey daily.",
+    "traditional_explanation": "The theory behind this remedy is that local honey contains small amounts of pollen from the local area. By ingesting the honey, you are exposing your body to the pollen in small, manageable doses, which may help your immune system to become less reactive to it over time.",
+    "usage_notes": "Start taking it a few months before allergy season begins for the best results.",
+    "wisdom_saying": "The bee is more honored than other animals, not because she labors, but because she labors for others."
+  },
+  {
+    "condition": "Mental/Emotional Wellness (Stress)",
+    "traditional_remedy": "Holy Basil (Tulsi) Infusion",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Fresh or dried Tulsi leaves", "Water"],
+    "preparation": "Steep a handful of fresh Tulsi leaves or a teaspoon of dried leaves in a cup of hot water for 10 minutes. Strain and drink.",
+    "traditional_explanation": "Tulsi is considered an adaptogen, which means it helps the body to adapt to stress. It is believed to have a calming effect on the mind and body, and can help to reduce the levels of the stress hormone cortisol. [3, 5]",
+    "usage_notes": "Drink 1-2 cups daily. It can be slightly stimulating, so it's best to drink it earlier in the day.",
+    "wisdom_saying": "The mind is everything; what you think, you become."
+  },
+  {
+    "condition": "Grief",
+    "traditional_remedy": "Hawthorn and Rose Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried hawthorn berries and leaves", "Dried rose petals", "Water"],
+    "preparation": "Mix equal parts of hawthorn and rose. Steep a teaspoon of the blend in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Hawthorn is a traditional remedy for the heart, both physically and emotionally. It is believed to comfort and strengthen a grieving heart. Rose is associated with love and is thought to soothe sorrow.",
+    "usage_notes": "Drink a cup whenever you are feeling overwhelmed by grief.",
+    "wisdom_saying": "Tears are the rain that waters the soul."
+  },
+  {
+    "condition": "Worry",
+    "traditional_remedy": "Milky Oats Tincture",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Milky oats tincture (made from the fresh, milky tops of the oat plant)"],
+    "preparation": "Take a dropperful of milky oats tincture in a little water.",
+    "traditional_explanation": "Milky oats are a nervine tonic, which means they are believed to nourish and restore the nervous system over time. They are particularly helpful for when you feel 'frayed' or burnt out from chronic worry.",
+    "usage_notes": "Take 1-3 times a day. This is a long-term supportive remedy.",
+    "wisdom_saying": "Worrying is like a rocking chair, it gives you something to do but gets you nowhere."
+  },
+  {
+    "condition": "Cough",
+    "traditional_remedy": "Mullein and Thyme Steam",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried mullein leaves", "Dried thyme", "Hot water"],
+    "preparation": "Place a handful of dried mullein and thyme in a bowl of hot water. Lean over the bowl with a towel over your head and inhale the steam for 10-15 minutes.",
+    "traditional_explanation": "Mullein is an expectorant that helps to loosen mucus in the lungs, making it easier to cough up. Thyme is an antiseptic and can help to fight off respiratory infections.",
+    "usage_notes": "Do this 2-3 times a day. Be careful not to get too close to the hot water.",
+    "wisdom_saying": "A good cough is better than a bad friend."
+  },
+  {
+    "condition": "Sore Throat",
+    "traditional_remedy": "Marshmallow Root and Licorice Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried marshmallow root", "Dried licorice root", "Water"],
+    "preparation": "Simmer a teaspoon of marshmallow root and half a teaspoon of licorice root in a cup of water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Both marshmallow and licorice are demulcents, which means they create a soothing film over the mucous membranes of the throat, relieving irritation and pain. [22]",
+    "usage_notes": "Drink warm throughout the day. Do not use licorice long-term if you have high blood pressure.",
+    "wisdom_saying": "A spoonful of honey is a spoonful of health."
+  },
+  {
+    "condition": "Boosting Immunity",
+    "traditional_remedy": "Echinacea Tincture",
+    "cultural_origin": "Native American",
+    "ingredients": ["Echinacea root tincture"],
+    "preparation": "Take a dropperful of echinacea tincture in a little water at the first sign of a cold or flu.",
+    "traditional_explanation": "Echinacea is believed to stimulate the immune system, increasing the production of white blood cells that fight off infection.",
+    "usage_notes": "Take every few hours for the first couple of days of an illness. It is not recommended for long-term use.",
+    "wisdom_saying": "An ounce of prevention is worth a pound of cure."
+  },
+  {
+    "condition": "Fatigue",
+    "traditional_remedy": "Ginseng and Goji Berry Congee",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["American ginseng root", "Goji berries", "Rice", "Water"],
+    "preparation": "Cook a small amount of rice with plenty of water to make a congee (rice porridge). Add a few slices of ginseng and a handful of goji berries and simmer until the rice is very soft.",
+    "traditional_explanation": "In TCM, fatigue is often due to a deficiency of Qi. Ginseng is a famous Qi tonic that is believed to boost energy and stamina. Goji berries are thought to nourish the blood and yin. [11, 20]",
+    "usage_notes": "Eat a small bowl for breakfast.",
+    "wisdom_saying": "A journey of a thousand miles begins with a single step."
+  },
+  {
+    "condition": "Acne",
+    "traditional_remedy": "Burdock and Dandelion Root Decoction",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried burdock root", "Dried dandelion root", "Water"],
+    "preparation": "Simmer a teaspoon of each root in two cups of water for 20 minutes. Strain and drink.",
+    "traditional_explanation": "Burdock and dandelion are both considered 'blood purifiers' and are believed to support the liver and kidneys in eliminating toxins from the body. It is thought that by improving detoxification, skin conditions like acne can be resolved from the inside out.",
+    "usage_notes": "Drink 1-2 cups a day. The taste is earthy and bitter.",
+    "wisdom_saying": "True beauty comes from within."
+  },
+  {
+    "condition": "Eczema",
+    "traditional_remedy": "Calendula and Plantain Salve",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried calendula flowers", "Dried plantain leaves", "Olive oil", "Beeswax"],
+    "preparation": "Infuse the calendula and plantain in olive oil for 4-6 weeks in a sunny window, or gently heat for a few hours. Strain the oil and melt it with a small amount of beeswax to create a salve.",
+    "traditional_explanation": "Calendula is known for its skin-healing and anti-inflammatory properties. Plantain is a traditional remedy for soothing itchy and irritated skin.",
+    "usage_notes": "Apply a thin layer to the affected areas as needed.",
+    "wisdom_saying": "Nature is the best physician."
+  },
+  {
+    "condition": "Psoriasis",
+    "traditional_remedy": "Oregon Grape Root Tincture",
+    "cultural_origin": "Native American",
+    "ingredients": ["Oregon grape root tincture"],
+    "preparation": "Take a dropperful of Oregon grape root tincture in a little water, as directed by a practitioner.",
+    "traditional_explanation": "Oregon grape root contains berberine, a compound that is believed to have anti-inflammatory and anti-proliferative properties. It is traditionally used to help slow the rapid growth of skin cells in psoriasis.",
+    "usage_notes": "This is a strong herb and should be used under the guidance of a qualified herbalist.",
+    "wisdom_saying": "Patience is a tree whose root is bitter, but its fruit is very sweet."
+  },
+  {
+    "condition": "Burns (minor)",
+    "traditional_remedy": "Aloe Vera Gel",
+    "cultural_origin": "Traditional Medicine (Worldwide)",
+    "ingredients": ["Fresh aloe vera leaf"],
+    "preparation": "Cut a piece of an aloe vera leaf and squeeze the gel directly onto the burn.",
+    "traditional_explanation": "Aloe vera is cooling and moisturizing. It is believed to reduce inflammation, soothe pain, and promote the healing of burned skin.",
+    "usage_notes": "Apply several times a day. For minor burns only. Seek medical attention for severe burns.",
+    "wisdom_saying": "Fire is a good servant but a bad master."
+  },
+  {
+    "condition": "Sunburn",
+    "traditional_remedy": "Black Tea Compress",
+    "cultural_origin": "Folk Remedy (Worldwide)",
+    "ingredients": ["Black tea bags", "Water"],
+    "preparation": "Brew a strong pot of black tea and let it cool completely. Soak a clean cloth in the tea and apply it to the sunburned areas.",
+    "traditional_explanation": "Black tea contains tannins, which are believed to help draw the heat out of a sunburn and soothe the skin.",
+    "usage_notes": "Apply the compress for 15-20 minutes at a time, several times a day.",
+    "wisdom_saying": "The sun sees your body, the moon sees your soul."
+  },
+  {
+    "condition": "Insect Bites",
+    "traditional_remedy": "Crushed Basil Leaves",
+    "cultural_origin": "Folk Remedy (Mediterranean)",
+    "ingredients": ["Fresh basil leaves"],
+    "preparation": "Crush a few fresh basil leaves to release their oils and apply them directly to the insect bite.",
+    "traditional_explanation": "Basil is believed to have anti-inflammatory and antiseptic properties that can help to reduce the itching and swelling of insect bites.",
+    "usage_notes": "Reapply as needed.",
+    "wisdom_saying": "A single bee is not a swarm."
+  },
+  {
+    "condition": "Poison Ivy Rash",
+    "traditional_remedy": "Jewelweed Infusion",
+    "cultural_origin": "Native American",
+    "ingredients": ["Fresh jewelweed", "Water"],
+    "preparation": "Boil a large handful of fresh jewelweed in water for 15 minutes. Strain the liquid and let it cool. Apply it to the rash with a clean cloth.",
+    "traditional_explanation": "Jewelweed is the traditional antidote to poison ivy. It is believed to contain compounds that can neutralize the urushiol oil from the poison ivy plant and relieve the itching and inflammation.",
+    "usage_notes": "Apply frequently to the affected areas.",
+    "wisdom_saying": "Listen to the land, and it will tell you what you need to know."
+  },
+  {
+    "condition": "Blisters",
+    "traditional_remedy": "Green Tea and Witch Hazel Soak",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Green tea bag", "Witch hazel", "Warm water"],
+    "preparation": "Brew a cup of green tea and let it cool. Add a few tablespoons of witch hazel. Soak the blistered area in the solution.",
+    "traditional_explanation": "Green tea has anti-inflammatory properties, and witch hazel is an astringent that can help to dry out the blister and prevent infection.",
+    "usage_notes": "Soak for 15-20 minutes. Do not pop the blister.",
+    "wisdom_saying": "A journey of a thousand miles starts with a single step, and sometimes a blister."
+  },
+  {
+    "condition": "Corns and Calluses",
+    "traditional_remedy": "Pineapple Peel Poultice",
+    "cultural_origin": "Folk Remedy (Tropical Regions)",
+    "ingredients": ["Fresh pineapple peel"],
+    "preparation": "Place a small piece of pineapple peel, fleshy side down, on the corn or callus. Secure it with a bandage and leave it on overnight.",
+    "traditional_explanation": "Pineapple contains enzymes, such as bromelain, that are believed to help break down and soften the hard skin of corns and calluses.",
+    "usage_notes": "Repeat for several nights. Soak the foot in warm water in the morning and gently rub the area with a pumice stone.",
+    "wisdom_saying": "The tallest trees have the deepest roots."
+  },
+  {
+    "condition": "Athlete's Foot",
+    "traditional_remedy": "Garlic and Olive Oil Application",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Fresh garlic", "Olive oil"],
+    "preparation": "Crush a few cloves of garlic and mix them with a small amount of olive oil. Apply the mixture to the affected areas of the feet.",
+    "traditional_explanation": "Garlic is a potent antifungal and is believed to kill the fungus that causes athlete's foot. Olive oil helps to moisturize the skin and can also have some antifungal properties.",
+    "usage_notes": "Leave it on for 30 minutes before washing it off. Do this daily.",
+    "wisdom_saying": "A little garlic a day keeps the doctor away."
+  },
+  {
+    "condition": "Nail Fungus",
+    "traditional_remedy": "Oregano Oil",
+    "cultural_origin": "Folk Remedy (Mediterranean)",
+    "ingredients": ["Oregano essential oil", "Carrier oil (like coconut or olive oil)"],
+    "preparation": "Dilute a few drops of oregano essential oil in a teaspoon of carrier oil. Apply it to the affected nail.",
+    "traditional_explanation": "Oregano oil is a powerful antifungal and is believed to be effective against the fungus that causes nail infections.",
+    "usage_notes": "Apply twice a day. It may take several months to see results as the new nail grows out.",
+    "wisdom_saying": "Patience is a virtue."
+  },
+  {
+    "condition": "Dandruff",
+    "traditional_remedy": "Fenugreek Seed Hair Mask",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Fenugreek seeds", "Yogurt"],
+    "preparation": "Soak a few tablespoons of fenugreek seeds in water overnight. In the morning, grind them into a paste and mix with a few tablespoons of yogurt. Apply the mask to your scalp and hair and leave it on for 30 minutes before washing it off.",
+    "traditional_explanation": "Fenugreek is believed to have antifungal and anti-inflammatory properties that can help to control dandruff. Yogurt is moisturizing and can soothe an itchy scalp.",
+    "usage_notes": "Use this mask once a week.",
+    "wisdom_saying": "A healthy scalp is the foundation of beautiful hair."
+  },
+  {
+    "condition": "Hair Loss",
+    "traditional_remedy": "Onion Juice Scalp Treatment",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Onion"],
+    "preparation": "Grate an onion and squeeze out the juice. Apply the juice to your scalp and leave it on for 30 minutes before shampooing.",
+    "traditional_explanation": "Onion juice is high in sulfur, which is believed to improve circulation to the scalp and promote hair growth. It is also thought to have antimicrobial properties that can help to keep the scalp healthy.",
+    "usage_notes": "Do this 2-3 times a week. The smell can be strong, but it usually washes out with shampoo.",
+    "wisdom_saying": "The hair is the crown of glory."
+  },
+  {
+    "condition": "Dry, Brittle Hair",
+    "traditional_remedy": "Avocado and Honey Hair Mask",
+    "cultural_origin": "Folk Remedy (Latin America)",
+    "ingredients": ["Ripe avocado", "Honey", "Olive oil"],
+    "preparation": "Mash a ripe avocado and mix it with a tablespoon of honey and a tablespoon of olive oil. Apply the mask to your hair, focusing on the ends. Leave it on for 30 minutes before washing it out.",
+    "traditional_explanation": "Avocado is rich in fatty acids and vitamins that are believed to nourish and moisturize the hair. Honey is a humectant that attracts moisture, and olive oil adds shine and softness.",
+    "usage_notes": "Use this mask once a week or as needed.",
+    "wisdom_saying": "Love your hair, for it is a part of you."
+  },
+  {
+    "condition": "Oily Hair",
+    "traditional_remedy": "Lemon and Green Tea Hair Rinse",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Green tea", "Lemon"],
+    "preparation": "Brew a strong cup of green tea and let it cool. Add the juice of half a lemon. After shampooing, pour the rinse over your hair and scalp. Do not rinse it out.",
+    "traditional_explanation": "Green tea contains tannins that can help to reduce sebum production. Lemon juice is an astringent that can help to cleanse the scalp and remove excess oil.",
+    "usage_notes": "Use this rinse once or twice a week. Lemon juice can lighten the hair over time.",
+    "wisdom_saying": "When life gives you lemons, make a hair rinse."
+  },
+  {
+    "condition": "Bad Breath",
+    "traditional_remedy": "Cardamom and Fennel Seed Chew",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Cardamom pods", "Fennel seeds"],
+    "preparation": "Chew on a few cardamom pods and fennel seeds after meals.",
+    "traditional_explanation": "Cardamom and fennel are both aromatic spices that are believed to freshen the breath and aid in digestion. They can help to mask bad odors and also address digestive issues that may be contributing to bad breath.",
+    "usage_notes": "A simple and effective remedy to carry with you.",
+    "wisdom_saying": "A sweet word is like a fragrant flower."
+  },
+  {
+    "condition": "Canker Sores",
+    "traditional_remedy": "Sage and Myrrh Mouthwash",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried sage", "Myrrh tincture", "Warm water"],
+    "preparation": "Brew a strong cup of sage tea and let it cool. Add a few drops of myrrh tincture. Use it as a mouthwash.",
+    "traditional_explanation": "Sage is an astringent and can help to tighten the tissues around the canker sore. Myrrh is an antiseptic and can help to prevent infection.",
+    "usage_notes": "Rinse your mouth with the solution 2-3 times a day.",
+    "wisdom_saying": "The tongue is a small thing, but it can cause great trouble."
+  },
+  {
+    "condition": "Dry Mouth",
+    "traditional_remedy": "Slippery Elm Gruel",
+    "cultural_origin": "Native American",
+    "ingredients": ["Slippery elm powder", "Water"],
+    "preparation": "Mix a teaspoon of slippery elm powder with a small amount of cold water to make a paste. Gradually stir in a cup of hot water to make a thin gruel.",
+    "traditional_explanation": "Slippery elm is a demulcent and contains mucilage that is believed to coat and moisturize the mucous membranes of the mouth and throat.",
+    "usage_notes": "Sip the gruel throughout the day.",
+    "wisdom_saying": "Water is the source of all life."
+  },
+  {
+    "condition": "Hiccups",
+    "traditional_remedy": "Dill Seed Water",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Dill seeds", "Water"],
+    "preparation": "Chew on a small pinch of dill seeds, or steep a teaspoon of seeds in a cup of hot water and sip the tea slowly.",
+    "traditional_explanation": "Dill is a carminative and is believed to relax the diaphragm, which can help to stop the spasms that cause hiccups.",
+    "usage_notes": "An old and gentle remedy.",
+    "wisdom_saying": "Laughter is the shortest distance between two people."
+  },
+  {
+    "condition": "Motion Sickness",
+    "traditional_remedy": "Dried Plum and Ginger",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried plums (the salty kind, often found in Asian markets)", "Candied ginger"],
+    "preparation": "Suck on a dried plum or chew on a piece of candied ginger during travel.",
+    "traditional_explanation": "In TCM, motion sickness is often related to a disturbance in the stomach. The sour and salty taste of the dried plum is believed to help settle the stomach. Ginger is a well-known remedy for nausea.",
+    "usage_notes": "A convenient travel remedy.",
+    "wisdom_saying": "A calm sea does not make a skilled sailor."
+  },
+  {
+    "condition": "Libido (Low)",
+    "traditional_remedy": "Maca and Cacao Drink",
+    "cultural_origin": "South American (Andean) Folk Medicine",
+    "ingredients": ["Maca powder", "Raw cacao powder", "Warm milk or water", "Honey or other sweetener"],
+    "preparation": "Mix a teaspoon of maca powder and a tablespoon of raw cacao powder into a cup of warm milk or water. Sweeten to taste.",
+    "traditional_explanation": "Maca is an adaptogen that is believed to support the endocrine system and balance hormones, which can help to improve libido. Cacao is a stimulant and is thought to increase blood flow and have a mood-enhancing effect.",
+    "usage_notes": "Drink this energizing beverage in the morning.",
+    "wisdom_saying": "The heart has its reasons, of which reason knows nothing."
+  },
+  {
+    "condition": "Fertility (Female, supportive)",
+    "traditional_remedy": "Shatavari and Milk Decoction",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Shatavari root powder", "Milk", "Honey"],
+    "preparation": "Simmer a teaspoon of shatavari root powder in a cup of milk for 10 minutes. Let it cool slightly and add a little honey.",
+    "traditional_explanation": "Shatavari is considered the primary female reproductive tonic in Ayurveda. It is believed to nourish the female reproductive organs, regulate hormones, and support fertility.",
+    "usage_notes": "Drink a cup daily. Consult with a practitioner for personalized advice.",
+    "wisdom_saying": "A woman's health is her capital."
+  },
+  {
+    "condition": "Fertility (Male, supportive)",
+    "traditional_remedy": "Ashwagandha and Ghee",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Ashwagandha root powder", "Ghee (clarified butter)"],
+    "preparation": "Mix half a teaspoon of ashwagandha powder with a teaspoon of ghee and take it with a little warm water.",
+    "traditional_explanation": "Ashwagandha is a reproductive tonic for men in Ayurveda. It is believed to improve sperm quality and motility and to support overall vitality.",
+    "usage_notes": "Take this mixture once a day. Consult with a practitioner for personalized advice.",
+    "wisdom_saying": "A strong root bears strong fruit."
+  },
+  {
+    "condition": "Menopause (Hot Flashes)",
+    "traditional_remedy": "Sage and Motherwort Tincture",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Sage tincture", "Motherwort tincture"],
+    "preparation": "Combine equal parts of sage and motherwort tinctures. Take a dropperful in a little water as needed.",
+    "traditional_explanation": "Sage is a traditional remedy for reducing sweating and is often used for hot flashes. Motherwort is a calming herb that can help with the anxiety and heart palpitations that can accompany menopause.",
+    "usage_notes": "Use as needed, but not long-term without consulting a practitioner.",
+    "wisdom_saying": "Every season of life has its own beauty."
+  },
+  {
+    "condition": "Premenstrual Syndrome (PMS)",
+    "traditional_remedy": "Chaste Tree Berry (Vitex) Tincture",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Chaste tree berry tincture"],
+    "preparation": "Take a dropperful of chaste tree berry tincture in a little water every morning.",
+    "traditional_explanation": "Chaste tree berry is believed to help balance the hormones of the menstrual cycle, particularly progesterone and estrogen. It is often used for a wide range of PMS symptoms, including irritability, bloating, and breast tenderness.",
+    "usage_notes": "This is a long-term remedy and may take a few months to show its full effect. Consult with a practitioner.",
+    "wisdom_saying": "Know thyself."
+  },
+  {
+    "condition": "Vaginal Yeast Infection",
+    "traditional_remedy": "Garlic Suppository",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Fresh garlic clove"],
+    "preparation": "Peel a fresh garlic clove and wrap it in a small piece of gauze, leaving a 'tail' for easy removal. Insert it into the vagina before bed and remove it in the morning.",
+    "traditional_explanation": "Garlic has strong antifungal properties and is believed to kill the Candida yeast that causes yeast infections.",
+    "usage_notes": "Use for a few nights. Some women may experience a warming sensation. Do not use if you have any open sores.",
+    "wisdom_saying": "The body has its own wisdom."
+  },
+  {
+    "condition": "Urinary Tract Infection (UTI)",
+    "traditional_remedy": "Corn Silk and Dandelion Leaf Tea",
+    "cultural_origin": "Native American and European Folk Medicine",
+    "ingredients": ["Fresh or dried corn silk", "Dried dandelion leaves", "Water"],
+    "preparation": "Steep a tablespoon of corn silk and a teaspoon of dandelion leaves in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Corn silk is a soothing diuretic that is believed to calm the inflammation in the urinary tract. Dandelion leaf is also a diuretic that helps to flush out bacteria.",
+    "usage_notes": "Drink several cups a day at the first sign of a UTI. If symptoms persist or worsen, see a doctor.",
+    "wisdom_saying": "Listen to the whispers of your body, so you don't have to hear its screams."
+  },
+  {
+    "condition": "Prostate Health (BPH, supportive)",
+    "traditional_remedy": "Nettle Root and Saw Palmetto Tincture",
+    "cultural_origin": "European and Native American Folk Medicine",
+    "ingredients": ["Nettle root tincture", "Saw palmetto berry tincture"],
+    "preparation": "Combine equal parts of nettle root and saw palmetto tinctures. Take a dropperful in a little water 1-2 times a day.",
+    "traditional_explanation": "Saw palmetto is a well-known remedy for benign prostatic hyperplasia (BPH) and is believed to help reduce the size of the prostate. Nettle root is also used to support prostate health.",
+    "usage_notes": "This is a supportive remedy and should be used under the guidance of a healthcare provider.",
+    "wisdom_saying": "A man is as old as his arteries."
+  },
+  {
+    "condition": "Erectile Dysfunction (supportive)",
+    "traditional_remedy": "Horny Goat Weed (Epimedium) Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried horny goat weed leaves", "Water"],
+    "preparation": "Simmer a teaspoon of dried horny goat weed leaves in a cup of water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Horny goat weed is a traditional aphrodisiac and is believed to improve erectile function by increasing blood flow to the penis.",
+    "usage_notes": "Drink a cup about an hour before sexual activity. Consult with a practitioner before use.",
+    "wisdom_saying": "A spark can start a great fire."
+  },
+  {
+    "condition": "Depression (mild)",
+    "traditional_remedy": "St. John's Wort and Lemon Balm Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried St. John's Wort", "Dried lemon balm", "Water"],
+    "preparation": "Mix equal parts of St. John's Wort and lemon balm. Steep a teaspoon of the blend in a cup of hot water for 10 minutes. Strain and drink.",
+    "traditional_explanation": "St. John's Wort is a well-known herbal antidepressant and is believed to work by increasing the levels of certain neurotransmitters in the brain. Lemon balm has a calming and uplifting effect.",
+    "usage_notes": "Drink 1-2 cups a day. St. John's Wort can interact with many medications, so it's essential to consult with a healthcare provider before use.",
+    "wisdom_saying": "The sun always shines above the clouds."
+  },
+  {
+    "condition": "Attention Deficit Hyperactivity Disorder (ADHD, supportive)",
+    "traditional_remedy": "Ginkgo and Brahmi (Bacopa) Tincture",
+    "cultural_origin": "Traditional Chinese Medicine (TCM) and Ayurvedic (Indian)",
+    "ingredients": ["Ginkgo leaf tincture", "Brahmi tincture"],
+    "preparation": "Combine equal parts of ginkgo and brahmi tinctures. Take a dropperful in a little water in the morning.",
+    "traditional_explanation": "Ginkgo is believed to improve blood flow to the brain and enhance cognitive function. Brahmi is a classic Ayurvedic brain tonic that is thought to improve memory, concentration, and learning.",
+    "usage_notes": "This is a supportive remedy and should be used as part of a comprehensive treatment plan. Consult with a practitioner.",
+    "wisdom_saying": "A quiet mind can hear the whispers of the universe."
+  },
+  {
+    "condition": "Autism Spectrum Disorder (ASD, supportive for anxiety)",
+    "traditional_remedy": "Skullcap and Chamomile Glycerite",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried skullcap", "Dried chamomile", "Vegetable glycerin", "Distilled water"],
+    "preparation": "Make a glycerite by infusing skullcap and chamomile in a mixture of vegetable glycerin and distilled water for 4-6 weeks.",
+    "traditional_explanation": "Skullcap and chamomile are gentle nervines that can help to calm the nervous system and reduce anxiety, which can be a significant challenge for individuals on the autism spectrum.",
+    "usage_notes": "Give a few drops as needed. A glycerite is a good option for children as it is alcohol-free and has a sweet taste. Consult with a healthcare provider.",
+    "wisdom_saying": "Different, not less."
+  },
+  {
+    "condition": "Obsessive-Compulsive Disorder (OCD, supportive)",
+    "traditional_remedy": "Kava Kava Root Tea",
+    "cultural_origin": "Pacific Islands Traditional Medicine",
+    "ingredients": ["Kava kava root powder", "Water"],
+    "preparation": "Traditionally, kava is prepared by kneading the root powder in cold water and then straining it. There are also instant kava powders available.",
+    "traditional_explanation": "Kava is a powerful anxiolytic and is believed to have a calming and relaxing effect on the mind and body. It may help to reduce the anxiety that drives obsessive-compulsive behaviors.",
+    "usage_notes": "Use with caution and under the guidance of a knowledgeable practitioner. Kava can be hard on the liver and should not be used by people with liver problems.",
+    "wisdom_saying": "A peaceful mind is a priceless treasure."
+  },
+  {
+    "condition": "Bipolar Disorder (supportive for mood stability)",
+    "traditional_remedy": "Rhodiola and Schisandra Berry Tincture",
+    "cultural_origin": "Russian and Chinese Folk Medicine",
+    "ingredients": ["Rhodiola rosea root tincture", "Schisandra berry tincture"],
+    "preparation": "Combine equal parts of rhodiola and schisandra tinctures. Take a dropperful in a little water in the morning.",
+    "traditional_explanation": "Rhodiola and schisandra are both adaptogens that are believed to help the body to better cope with stress. They are used to support overall mood and energy levels.",
+    "usage_notes": "This is a supportive remedy and should not replace prescribed medication. Consult with a healthcare provider.",
+    "wisdom_saying": "The same mountain can be a peak from one side and a valley from the other."
+  },
+  {
+    "condition": "Schizophrenia (supportive for cognitive function)",
+    "traditional_remedy": "Gotu Kola and Ginkgo Tea",
+    "cultural_origin": "Ayurvedic (Indian) and Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried gotu kola", "Dried ginkgo leaves", "Water"],
+    "preparation": "Steep a teaspoon of a mixture of gotu kola and ginkgo in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Gotu kola is a revered brain tonic in Ayurveda and is believed to improve cognitive function. Ginkgo is thought to enhance blood flow to the brain.",
+    "usage_notes": "This is a supportive remedy and should be used as part of a comprehensive treatment plan under the care of a psychiatrist. Consult with a practitioner.",
+    "wisdom_saying": "The mind is like a garden, it needs to be cultivated."
+  },
+  {
+    "condition": "Eating Disorders (supportive for digestion and anxiety)",
+    "traditional_remedy": "Ginger and Lemon Balm Tea",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Fresh ginger", "Dried lemon balm", "Water"],
+    "preparation": "Steep a few slices of fresh ginger and a teaspoon of lemon balm in a cup of hot water. Strain and drink.",
+    "traditional_explanation": "Ginger can help to soothe the digestive system, which can be compromised in eating disorders. Lemon balm has a calming effect and can help to ease the anxiety that often accompanies these conditions.",
+    "usage_notes": "Sip this tea throughout the day. This is a supportive remedy and should be used in conjunction with professional therapy.",
+    "wisdom_saying": "Nourish yourself, body and soul."
+  },
+  {
+    "condition": "Addiction (supportive for withdrawal symptoms)",
+    "traditional_remedy": "Kudzu Root Decoction",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried kudzu root", "Water"],
+    "preparation": "Simmer a tablespoon of dried kudzu root in two cups of water for 20 minutes. Strain and drink.",
+    "traditional_explanation": "Kudzu has been traditionally used to help reduce cravings for alcohol. It is believed to have an effect on the neurotransmitters in the brain.",
+    "usage_notes": "Drink 1-2 cups a day. This is a supportive remedy and should be used as part of a comprehensive addiction treatment program.",
+    "wisdom_saying": "The first step to getting anywhere is deciding you're not going to stay where you are."
+  },
+  {
+    "condition": "Post-Traumatic Stress Disorder (PTSD, supportive for sleep and anxiety)",
+    "traditional_remedy": "California Poppy and Lavender Tincture",
+    "cultural_origin": "Native American and European Folk Medicine",
+    "ingredients": ["California poppy tincture", "Lavender tincture"],
+    "preparation": "Combine equal parts of California poppy and lavender tinctures. Take a dropperful in a little water before bed.",
+    "traditional_explanation": "California poppy is a gentle sedative and can help with sleep disturbances and anxiety. Lavender is also calming and relaxing.",
+    "usage_notes": "This is a supportive remedy to be used alongside therapy. Consult with a practitioner.",
+    "wisdom_saying": "The wound is the place where the light enters you."
+  },
+  {
+    "condition": "Insomnia",
+    "traditional_remedy": "Nutmeg and Warm Milk",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Nutmeg powder", "Warm milk"],
+    "preparation": "Add a pinch of nutmeg powder to a cup of warm milk and drink it before bed.",
+    "traditional_explanation": "Nutmeg is believed to have a calming and sedative effect that can help to induce sleep.",
+    "usage_notes": "Use only a small pinch of nutmeg, as large amounts can be toxic.",
+    "wisdom_saying": "A good laugh and a long sleep are the best cures in the doctor's book."
+  },
+  {
+    "condition": "Nightmares",
+    "traditional_remedy": "Mugwort Dream Pillow",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried mugwort", "A small cloth bag"],
+    "preparation": "Fill a small cloth bag with dried mugwort and place it in your pillowcase.",
+    "traditional_explanation": "Mugwort has a long association with dreams and is believed to promote vivid and lucid dreaming. It is sometimes used to help process and understand nightmares.",
+    "usage_notes": "Some people find that mugwort can make their dreams too intense. Discontinue use if this is the case.",
+    "wisdom_saying": "Dreams are the whispers of the soul."
+  },
+  {
+    "condition": "Sleep Apnea (supportive)",
+    "traditional_remedy": "Thyme and Peppermint Steam Inhalation",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Dried thyme", "Dried peppermint", "Hot water"],
+    "preparation": "Place a handful of thyme and peppermint in a bowl of hot water. Inhale the steam before bed.",
+    "traditional_explanation": "Thyme and peppermint are both decongestants and can help to open up the airways, which may provide some relief for mild sleep apnea.",
+    "usage_notes": "This is a supportive remedy and not a cure for sleep apnea. It is important to seek medical advice for this condition.",
+    "wisdom_saying": "Breathe deeply, live fully."
+  },
+  {
+    "condition": "Narcolepsy (supportive for alertness)",
+    "traditional_remedy": "Green Tea",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Green tea leaves", "Water"],
+    "preparation": "Brew a cup of green tea and drink it in the morning.",
+    "traditional_explanation": "Green tea contains caffeine, which is a stimulant and can help to promote wakefulness. It also contains L-theanine, an amino acid that can have a calming effect and may help to prevent the jitters associated with caffeine.",
+    "usage_notes": "Drink in moderation. This is a supportive remedy and not a substitute for medical treatment.",
+    "wisdom_saying": "The journey of a thousand miles begins with a single cup of tea."
+  },
+  {
+    "condition": "Restless Leg Syndrome",
+    "traditional_remedy": "Magnesium Foot Soak",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Epsom salts (magnesium sulfate)", "Warm water"],
+    "preparation": "Add a cup of Epsom salts to a warm foot bath and soak your feet for 20 minutes before bed.",
+    "traditional_explanation": "Restless leg syndrome is sometimes associated with a magnesium deficiency. Soaking in Epsom salts is believed to allow for the absorption of magnesium through the skin, which can help to relax the muscles and ease the uncomfortable sensations.",
+    "usage_notes": "A simple and relaxing bedtime ritual.",
+    "wisdom_saying": "Take care of your feet, and they will take you far."
+  },
+  {
+    "condition": "Chronic Pain",
+    "traditional_remedy": "White Willow Bark and Ginger Tincture",
+    "cultural_origin": "European and Chinese Folk Medicine",
+    "ingredients": ["White willow bark tincture", "Ginger tincture"],
+    "preparation": "Combine equal parts of white willow bark and ginger tinctures. Take a dropperful in a little water as needed for pain.",
+    "traditional_explanation": "White willow bark is a natural source of salicin and is a traditional pain reliever. Ginger is anti-inflammatory and can help to reduce pain and inflammation.",
+    "usage_notes": "Do not use if you are allergic to aspirin. Consult with a practitioner for long-term use.",
+    "wisdom_saying": "Pain is inevitable, suffering is optional."
+  },
+  {
+    "condition": "Fibromyalgia",
+    "traditional_remedy": "Cayenne and Ginger Salve",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Cayenne powder", "Ginger powder", "Coconut oil", "Beeswax"],
+    "preparation": "Infuse cayenne and ginger powder in coconut oil over low heat for a few hours. Strain the oil and melt it with a small amount of beeswax to create a salve.",
+    "traditional_explanation": "Cayenne contains capsaicin, which is believed to deplete substance P, a neurotransmitter that sends pain signals to the brain. Ginger is anti-inflammatory. Applying this salve topically can help to relieve localized pain.",
+    "usage_notes": "Test on a small area of skin first, as it can cause a warming or burning sensation. Do not apply to broken skin.",
+    "wisdom_saying": "The body knows how to heal itself, we just need to give it the right tools."
+  },
+  {
+    "condition": "Migraines",
+    "traditional_remedy": "Feverfew and Ginger Tea",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried feverfew leaves", "Fresh ginger", "Water"],
+    "preparation": "Steep a teaspoon of dried feverfew and a few slices of fresh ginger in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Feverfew is a traditional remedy for migraines and is believed to work by reducing inflammation and preventing the release of substances that can trigger migraines. Ginger can help with the nausea that often accompanies migraines.",
+    "usage_notes": "For prevention, take feverfew daily in capsule or tincture form. Drink the tea at the onset of a migraine. Consult with a practitioner.",
+    "wisdom_saying": "A clear head is a happy heart."
+  },
+  {
+    "condition": "Rheumatoid Arthritis",
+    "traditional_remedy": "Turmeric and Boswellia Capsules",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Turmeric extract (curcumin) capsules", "Boswellia serrata extract capsules"],
+    "preparation": "Take turmeric and boswellia capsules as directed by a practitioner.",
+    "traditional_explanation": "Both turmeric and boswellia are powerful anti-inflammatory herbs in Ayurveda. They are believed to work by inhibiting the inflammatory pathways in the body, which can help to reduce the pain and swelling of rheumatoid arthritis. [14]",
+    "usage_notes": "Look for standardized extracts. This is a supportive remedy and should be used alongside conventional medical treatment.",
+    "wisdom_saying": "Movement is life."
+  },
+  {
+    "condition": "Osteoarthritis",
+    "traditional_remedy": "Comfrey and St. John's Wort Oil",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Dried comfrey root", "Dried St. John's Wort flowers", "Olive oil"],
+    "preparation": "Infuse comfrey root and St. John's Wort flowers in olive oil for 4-6 weeks. Strain the oil and massage it into the affected joints.",
+    "traditional_explanation": "Comfrey is traditionally known as 'knitbone' and is believed to promote the healing of tissues. St. John's Wort is a nervine and can help to relieve the pain of osteoarthritis.",
+    "usage_notes": "For external use only. Do not apply to broken skin. Comfrey should be used with caution and not long-term.",
+    "wisdom_saying": "A little oil can soothe a creaky hinge."
+  },
+  {
+    "condition": "Gout",
+    "traditional_remedy": "Celery Seed and Nettle Tea",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Celery seeds", "Dried nettle leaves", "Water"],
+    "preparation": "Steep a teaspoon of celery seeds and a teaspoon of nettle leaves in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Celery seed is a diuretic and is believed to help the body to excrete uric acid. Nettle is also a diuretic and is anti-inflammatory.",
+    "usage_notes": "Drink 2-3 cups a day during a gout flare-up. This is a supportive remedy.",
+    "wisdom_saying": "Let your food be your medicine."
+  },
+  {
+    "condition": "Lupus (supportive for inflammation)",
+    "traditional_remedy": "Reishi and Cordyceps Mushroom Decoction",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Dried reishi mushroom slices", "Dried cordyceps mushrooms", "Water"],
+    "preparation": "Simmer a few slices of reishi and a few cordyceps mushrooms in two cups of water for 30 minutes. Strain and drink.",
+    "traditional_explanation": "Reishi and cordyceps are both immunomodulating mushrooms, which means they are believed to help regulate the immune system. They are also anti-inflammatory. [12]",
+    "usage_notes": "This is a supportive remedy to be used under the guidance of a knowledgeable practitioner.",
+    "wisdom_saying": "The body is a microcosm of the universe."
+  },
+  {
+    "condition": "Multiple Sclerosis (MS, supportive for nerve health)",
+    "traditional_remedy": "Lion's Mane and Gotu Kola Tincture",
+    "cultural_origin": "Traditional Chinese Medicine (TCM) and Ayurvedic (Indian)",
+    "ingredients": ["Lion's mane mushroom tincture", "Gotu kola tincture"],
+    "preparation": "Combine equal parts of lion's mane and gotu kola tinctures. Take a dropperful in a little water daily.",
+    "traditional_explanation": "Lion's mane is a mushroom that is believed to support nerve growth and regeneration. Gotu kola is a brain tonic that is thought to improve circulation and cognitive function.",
+    "usage_notes": "This is a supportive remedy and should be used as part of a comprehensive treatment plan. Consult with a practitioner.",
+    "wisdom_saying": "The nervous system is the tree of life."
+  },
+  {
+    "condition": "Parkinson's Disease (supportive)",
+    "traditional_remedy": "Mucuna Pruriens (Velvet Bean) Powder",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Mucuna pruriens powder"],
+    "preparation": "Take a small amount of mucuna pruriens powder, as directed by a practitioner.",
+    "traditional_explanation": "Mucuna pruriens is a natural source of L-dopa, the precursor to dopamine. It is used in Ayurveda to help manage the symptoms of Parkinson's disease.",
+    "usage_notes": "This should only be used under the strict supervision of a qualified healthcare provider, as it can interact with medications.",
+    "wisdom_saying": "Where there is life, there is hope."
+  },
+  {
+    "condition": "Alzheimer's Disease (supportive)",
+    "traditional_remedy": "Turmeric and Ashwagandha Golden Milk",
+    "cultural_origin": "Ayurvedic (Indian)",
+    "ingredients": ["Turmeric powder", "Ashwagandha powder", "Milk", "Black pepper", "Honey"],
+    "preparation": "Warm a cup of milk and stir in half a teaspoon of turmeric, half a teaspoon of ashwagandha, and a pinch of black pepper. Sweeten with honey.",
+    "traditional_explanation": "Turmeric is a powerful anti-inflammatory and antioxidant. Ashwagandha is an adaptogen that is believed to protect the brain from stress and degeneration. [10]",
+    "usage_notes": "Drink a cup daily. This is a supportive remedy.",
+    "wisdom_saying": "The memory of the heart is the most precious."
+  },
+  {
+    "condition": "Cancer (supportive care for nausea from chemotherapy)",
+    "traditional_remedy": "Peppermint and Ginger Ice Chips",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Peppermint tea", "Ginger tea"],
+    "preparation": "Brew a strong pot of peppermint and ginger tea. Let it cool and then freeze it in an ice cube tray. Suck on the ice chips as needed.",
+    "traditional_explanation": "Peppermint and ginger are both well-known remedies for nausea. The coldness of the ice chips can also be soothing.",
+    "usage_notes": "A simple and gentle way to manage nausea. This is a supportive care measure.",
+    "wisdom_saying": "Even in the darkest of times, there is always a glimmer of light."
+  },
+  {
+    "condition": "HIV/AIDS (supportive for immune system)",
+    "traditional_remedy": "Sutherlandia (Cancer Bush) Tea",
+    "cultural_origin": "South African Traditional Medicine",
+    "ingredients": ["Dried sutherlandia leaves", "Water"],
+    "preparation": "Steep a teaspoon of dried sutherlandia leaves in a cup of hot water for 10 minutes. Strain and drink.",
+    "traditional_explanation": "Sutherlandia is an adaptogen and is considered one of the most important medicinal plants in South Africa. It is used to support the immune system and to help the body to cope with the stress of chronic illness.",
+    "usage_notes": "This is a supportive remedy and should be used under the guidance of a healthcare provider.",
+    "wisdom_saying": "The strength of the nation lies in the well-being of its people."
+  },
+  {
+    "condition": "Hepatitis (supportive for liver health)",
+    "traditional_remedy": "Milk Thistle and Dandelion Root Tincture",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Milk thistle seed tincture", "Dandelion root tincture"],
+    "preparation": "Combine equal parts of milk thistle and dandelion root tinctures. Take a dropperful in a little water 2-3 times a day.",
+    "traditional_explanation": "Milk thistle is a well-known liver protectant and is believed to help regenerate liver cells. Dandelion root supports liver function and bile flow.",
+    "usage_notes": "This is a supportive remedy and should be used as part of a comprehensive treatment plan. Consult with a practitioner.",
+    "wisdom_saying": "A healthy liver is a happy life."
+  },
+  {
+    "condition": "Kidney Disease (supportive)",
+    "traditional_remedy": "Parsley and Celery Seed Tea",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Fresh parsley", "Celery seeds", "Water"],
+    "preparation": "Steep a handful of fresh parsley and a teaspoon of celery seeds in a cup of hot water for 15 minutes. Strain and drink.",
+    "traditional_explanation": "Parsley and celery seed are both diuretics and are believed to help support kidney function by promoting the flushing of toxins.",
+    "usage_notes": "Drink 1-2 cups a day. This is a supportive remedy for early stages of kidney issues and should be used with caution and under the guidance of a healthcare provider.",
+    "wisdom_saying": "Water is the driving force of all nature."
+  },
+  {
+    "condition": "Heart Disease (supportive for circulation)",
+    "traditional_remedy": "Garlic and Hawthorn Berry Syrup",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Garlic cloves", "Hawthorn berries", "Honey"],
+    "preparation": "Simmer crushed garlic cloves and hawthorn berries in a small amount of water for 20 minutes. Strain the liquid and mix it with an equal amount of honey to make a syrup.",
+    "traditional_explanation": "Garlic is believed to help lower cholesterol and blood pressure. Hawthorn is a classic heart tonic that is thought to improve circulation and strengthen the heart muscle.",
+    "usage_notes": "Take a teaspoon of the syrup daily. This is a supportive remedy and should not replace medical treatment.",
+    "wisdom_saying": "The heart has a wisdom of its own."
+  },
+  {
+    "condition": "Stroke (supportive for recovery)",
+    "traditional_remedy": "Ginkgo and Turmeric Tincture",
+    "cultural_origin": "Traditional Chinese Medicine (TCM) and Ayurvedic (Indian)",
+    "ingredients": ["Ginkgo leaf tincture", "Turmeric root tincture"],
+    "preparation": "Combine equal parts of ginkgo and turmeric tinctures. Take a dropperful in a little water daily.",
+    "traditional_explanation": "Ginkgo is believed to improve blood flow to the brain, which is crucial for stroke recovery. Turmeric is a powerful anti-inflammatory and may help to reduce inflammation in the brain.",
+    "usage_notes": "This is a supportive remedy to be used as part of a comprehensive rehabilitation program. Consult with a healthcare provider.",
+    "wisdom_saying": "The journey of recovery begins with a single step."
+  },
+  {
+    "condition": "Obesity (supportive for metabolism)",
+    "traditional_remedy": "Green Tea and Ginger Infusion",
+    "cultural_origin": "Traditional Chinese Medicine (TCM)",
+    "ingredients": ["Green tea leaves", "Fresh ginger", "Water"],
+    "preparation": "Brew a cup of green tea and add a few slices of fresh ginger.",
+    "traditional_explanation": "Green tea is believed to boost metabolism and promote fat burning. Ginger is a warming herb that can aid in digestion.",
+    "usage_notes": "Drink 2-3 cups a day. This is a supportive remedy to be used in conjunction with a healthy diet and exercise.",
+    "wisdom_saying": "A healthy body is a guest-chamber for the soul."
+  },
+  {
+    "condition": "Anorexia (supportive for appetite)",
+    "traditional_remedy": "Gentian and Ginger Tincture",
+    "cultural_origin": "European Folk Medicine",
+    "ingredients": ["Gentian root tincture", "Ginger root tincture"],
+    "preparation": "Combine equal parts of gentian and ginger tinctures. Take a few drops in a little water about 20 minutes before meals.",
+    "traditional_explanation": "Gentian is a bitter herb that is believed to stimulate the appetite and the production of digestive juices. Ginger can help to settle the stomach.",
+    "usage_notes": "This is a supportive remedy to be used as part of a comprehensive treatment plan for anorexia. Consult with a healthcare provider.",
+    "wisdom_saying": "Food is the fuel of life."
+  },
+  {
+    "condition": "Bulimia (supportive for electrolyte balance)",
+    "traditional_remedy": "Coconut Water and Nettle Tea",
+    "cultural_origin": "Folk Remedy",
+    "ingredients": ["Coconut water", "Dried nettle leaves"],
+    "preparation": "Brew a cup of nettle tea and let it cool. Mix it with an equal amount of coconut water.",
+    "traditional_explanation": "Bulimia can lead to an imbalance of electrolytes. Coconut water is a natural source of electrolytes, and nettle is rich in minerals.",
+    "usage_notes": "Sip this drink throughout the day. This is a supportive remedy and should be used alongside professional therapy.",
+    "wisdom_saying": "The body is a precious gift."
+  }
+]

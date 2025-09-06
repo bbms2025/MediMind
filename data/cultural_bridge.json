@@ -1,0 +1,352 @@
+[
+  {
+    "condition": "Common Cold",
+    "simple_explanation": "A cold is when tiny invisible germs, called viruses, get into your nose and throat and start a little fight. Your body sends its own little soldiers to fight them off, which is why you feel all stuffy and tired.",
+    "common_symptoms": ["Runny or stuffy nose", "Sore throat", "Coughing", "Sneezing", "Feeling tired"],
+    "when_to_worry": ["If you have a very high fever that doesn't go down", "If you have a lot of trouble breathing", "If it lasts for more than a couple of weeks"],
+    "self_care_basics": ["Drink lots of warm liquids like tea and soup", "Get plenty of rest, let your body do the fighting", "Breathe in steam from a hot shower to help your stuffy nose"],
+    "prevention_tips": ["Wash your hands often, especially after being around people", "Try not to touch your face, especially your eyes, nose, and mouth"],
+    "everyday_analogy": "It's like your nose and throat are a peaceful village, and some troublemaking germs come to visit. Your body's soldiers have to clean up the mess, and that takes some time and energy.",
+    "reassurance_note": "A cold is very common and usually not serious. Your body is amazing and knows how to get better. Just give it some time and rest."
+  },
+  {
+    "condition": "Influenza (Flu)",
+    "simple_explanation": "The flu is like a really bad cold that hits your whole body. It's also caused by germs called viruses, but they're a stronger, meaner type. They make your whole body ache and feel weak.",
+    "common_symptoms": ["High fever", "Body aches and chills", "Headache", "Feeling very tired", "Dry cough"],
+    "when_to_worry": ["If you're having a very hard time breathing or feel short of breath", "If you have chest pain", "If you feel very confused or dizzy", "If a child has a very high fever or won't wake up"],
+    "self_care_basics": ["Stay home and rest, don't try to push through it", "Drink plenty of water, juice, or broth", "You can take over-the-counter medicine to help with the fever and aches, but ask your doctor or pharmacist what's best"],
+    "prevention_tips": ["Getting a flu shot every year is the best way to protect yourself", "Wash your hands often", "Avoid being close to people who are sick"],
+    "everyday_analogy": "If a cold is a small rain shower, the flu is a big thunderstorm that makes you want to stay inside under the covers.",
+    "reassurance_note": "The flu can make you feel awful, but most people get better in a week or two. Don't be afraid to call a doctor if you're worried, especially if you have other health problems."
+  },
+  {
+    "condition": "Asthma",
+    "simple_explanation": "Asthma is when the little breathing tubes in your lungs get extra sensitive. Sometimes, things like dust or cold air can make them get tight and narrow, which makes it hard for the air to move in and out.",
+    "common_symptoms": ["Wheezing (a whistling sound when you breathe)", "Coughing, especially at night or in the morning", "Feeling short of breath", "A tight feeling in your chest"],
+    "when_to_worry": ["If you are so out of breath you can't walk or talk", "If your lips or fingernails are turning blue", "If your rescue inhaler is not helping at all"],
+    "self_care_basics": ["Use the inhaler and other medicines your doctor gives you, exactly as they tell you", "Know what things make your asthma worse (your 'triggers') and try to avoid them", "Have a plan for what to do when you have an asthma attack"],
+    "prevention_tips": ["Work with your doctor to find the right medicine to keep your breathing tubes calm", "Keep your home clean of dust and mold", "Stay away from cigarette smoke"],
+    "everyday_analogy": "Your breathing tubes are like drinking straws. With asthma, sometimes they get squeezed, and it's much harder to get the air through.",
+    "reassurance_note": "With the right medicine and a good plan, you can control your asthma and do all the things you love to do. You are in charge of your asthma, not the other way around."
+  },
+  {
+    "condition": "Pneumonia",
+    "simple_explanation": "Pneumonia is an infection in your lungs. It's like the little air sacs deep inside your lungs get filled up with fluid and germs, so there's not as much room for air.",
+    "common_symptoms": ["A bad cough, often with yellow or green mucus", "Fever and chills", "Feeling very weak and tired", "Shortness of breath or chest pain when you breathe"],
+    "when_to_worry": ["If you have severe trouble breathing", "If you have a high fever that won't come down", "If you feel confused or your lips turn bluish", "If you're not getting better after a few days, or you start to get worse"],
+    "self_care_basics": ["You need to see a doctor for pneumonia, as you will likely need medicine to fight the infection", "Get lots of rest and drink plenty of fluids", "Use a humidifier to make the air moist and easier to breathe"],
+    "prevention_tips": ["Get a flu shot and ask your doctor about the pneumonia vaccine", "Don't smoke", "Wash your hands"],
+    "everyday_analogy": "Your lungs are like two balloons. With pneumonia, it's as if some of the balloon is filled with water, so you can't fill it up with as much air.",
+    "reassurance_note": "Pneumonia is serious, but we have good medicines to treat it. It's important to get help from a doctor so you can get the right medicine and get better."
+  },
+  {
+    "condition": "Allergies",
+    "simple_explanation": "Allergies are when your body's defense system gets a little confused. It sees something harmless, like pollen or dust, and thinks it's a dangerous invader. So, it overreacts and causes all that sneezing, itching, and sniffling.",
+    "common_symptoms": ["Sneezing", "Runny or stuffy nose", "Itchy, watery eyes", "Itchy skin or rashes (hives)"],
+    "when_to_worry": ["If you have trouble breathing or feel like your throat is closing up - this is a serious reaction called anaphylaxis and you need to call for an ambulance or go to the emergency room right away."],
+    "self_care_basics": ["Try to figure out what you're allergic to and avoid it", "There are many good over-the-counter allergy medicines that can help with the symptoms", "Rinse your nose with a saltwater solution to wash out the pollen"],
+    "prevention_tips": ["During pollen season, keep your windows closed and use an air conditioner", "Wash your bedding in hot water to get rid of dust mites", "If you're allergic to a pet, try to keep them out of your bedroom"],
+    "everyday_analogy": "Your body's defense system is like a guard dog. With allergies, the guard dog starts barking like crazy at the mailman, even though the mailman isn't a threat.",
+    "reassurance_note": "Allergies can be a nuisance, but they are very manageable. There are many ways to find relief, so you don't have to suffer."
+  },
+  {
+    "condition": "Nausea",
+    "simple_explanation": "Nausea is that queasy, upset feeling in your stomach that makes you feel like you might throw up. It's your body's way of telling you that something isn't right in your stomach or that your brain's balance system is off.",
+    "common_symptoms": ["Feeling like you have to vomit", "Not wanting to eat", "A sick feeling in your stomach and throat", "Sometimes, you might get sweaty or have a lot of saliva in your mouth"],
+    "when_to_worry": ["If you have been vomiting for more than a day", "If you are also having severe pain, especially in your chest or belly", "If you can't keep any liquids down", "If you have a high fever and a stiff neck"],
+    "self_care_basics": ["Sip on clear liquids like water, ginger ale, or broth", "Eat small amounts of bland foods like crackers, toast, or rice", "Get some fresh air, but avoid strong smells", "Ginger, in tea or as a candy, can be very calming for the stomach"],
+    "prevention_tips": ["Eat small, frequent meals instead of large ones", "Avoid foods that are very greasy or spicy", "If you get motion sickness, try to sit in the front of the car or look at the horizon"],
+    "everyday_analogy": "Your stomach is like a washing machine. Nausea is when the washing machine is out of balance and starts to shake and make a lot of noise.",
+    "reassurance_note": "Nausea is usually temporary and will pass. Be gentle with your stomach, and if it doesn't get better, a doctor can help figure out why."
+  },
+  {
+    "condition": "Diarrhea",
+    "simple_explanation": "Diarrhea is when you have loose, watery stools and you have to go to the bathroom more often than usual. It happens when your intestines are trying to get rid of something that is bothering them, like a germ or a food that didn't agree with you.",
+    "common_symptoms": ["Loose, watery bowel movements", "Having to go to the bathroom urgently", "You might also have cramping in your belly"],
+    "when_to_worry": ["If it lasts for more than a few days", "If you have a high fever", "If you have severe pain in your belly or rectum", "If you see blood in your stool", "If you are getting very dehydrated (very thirsty, not peeing much, feeling dizzy)"],
+    "self_care_basics": ["Drink plenty of fluids to replace what you're losing. Drinks with electrolytes are especially good.", "Stick to a simple diet of foods like bananas, rice, applesauce, and toast (the BRAT diet)", "Avoid milk, greasy foods, and spicy foods for a few days"],
+    "prevention_tips": ["Wash your hands well before you eat and after you use the bathroom", "Be careful with food and water when you're traveling", "Make sure food is cooked all the way through"],
+    "everyday_analogy": "Your intestines are like a water slide. Usually, they take their time absorbing water from your food. With diarrhea, everything goes down the slide way too fast.",
+    "reassurance_note": "Most cases of diarrhea are short-lived and get better on their own. The most important thing is to stay hydrated. Don't hesitate to call a doctor if you are concerned."
+  },
+  {
+    "condition": "Constipation",
+    "simple_explanation": "Constipation is the opposite of diarrhea. It's when you have a hard time having a bowel movement, or you don't go very often. Your stool can be hard and dry, which makes it difficult to pass.",
+    "common_symptoms": ["Having fewer than three bowel movements a week", "Straining to have a bowel movement", "Stool is hard, lumpy, or dry", "Feeling like you haven't completely emptied your bowels"],
+    "when_to_worry": ["If you have severe pain with your bowel movements", "If you see blood in your stool", "If you are losing weight without trying", "If it's a sudden and unusual change for you, especially if you're older"],
+    "self_care_basics": ["Drink more water", "Eat more fiber, which is found in fruits, vegetables, and whole grains. Prunes are a classic remedy!", "Try to get some exercise, like going for a walk, to get things moving"],
+    "prevention_tips": ["Make sure you have a diet with plenty of fiber and water", "Don't ignore the urge to go to the bathroom", "Try to have a regular time for your bowel movements each day, like in the morning"],
+    "everyday_analogy": "Your colon is like a highway for your waste. With constipation, there's a traffic jam, and things are moving very slowly.",
+    "reassurance_note": "Constipation is very common, and most of the time it can be managed with simple changes to your diet and lifestyle. A few small changes can make a big difference."
+  },
+  {
+    "condition": "Heartburn (Acid Reflux)",
+    "simple_explanation": "Heartburn is that burning feeling in your chest. It's not actually your heart! It's when some of the strong acid from your stomach splashes up into your food pipe (esophagus).",
+    "common_symptoms": ["A burning pain in the middle of your chest, often after eating or when you lie down", "A sour or bitter taste in the back of your throat", "You might also have a cough or a hoarse voice"],
+    "when_to_worry": ["If you have chest pain along with shortness of breath, sweating, or pain in your arm or jaw - this could be a heart attack, so call for an ambulance.", "If you have trouble swallowing", "If you are losing weight without trying", "If over-the-counter antacids don't help and you have heartburn often"],
+    "self_care_basics": ["Avoid foods that can trigger it, like spicy or fatty foods, chocolate, mint, and coffee", "Don't lie down right after you eat. Wait a few hours.", "Try raising the head of your bed with a few blocks or a wedge pillow"],
+    "prevention_tips": ["Eat smaller meals", "Try not to eat too close to bedtime", "If you are overweight, losing a few pounds can make a big difference"],
+    "everyday_analogy": "Your stomach has a little doorway at the top that's supposed to keep the stomach acid in. With heartburn, that doorway is a little loose, and some of the acid can splash back out.",
+    "reassurance_note": "Occasional heartburn is nothing to worry about and can be managed with lifestyle changes and antacids. If it happens a lot, your doctor can help you find a way to control it."
+  },
+  {
+    "condition": "Food Poisoning",
+    "simple_explanation": "Food poisoning happens when you eat food that has gone bad or is contaminated with germs. Your body knows it has eaten something it shouldn't have, and its main goal is to get it out of your system as quickly as possible.",
+    "common_symptoms": ["Nausea", "Vomiting", "Diarrhea", "Stomach cramps", "Sometimes a fever"],
+    "when_to_worry": ["If symptoms are very severe", "If you have signs of being very dehydrated (little or no urine, very dry mouth, dizziness)", "If you have bloody diarrhea", "If you have a high fever"],
+    "self_care_basics": ["Let your body do its thing and get rid of the bad stuff. Don't take medicine to stop the diarrhea or vomiting unless a doctor tells you to.", "Drink small sips of clear fluids to stay hydrated", "When you feel up to it, start with bland foods like toast and crackers"],
+    "prevention_tips": ["Wash your hands and cooking surfaces well", "Cook foods, especially meat, to the right temperature", "Keep hot foods hot and cold foods cold", "When in doubt, throw it out - don't eat food that looks or smells spoiled"],
+    "everyday_analogy": "It's like your stomach is a club with a very good bouncer. If someone (bad food) who shouldn't be there gets in, the bouncer's job is to throw them out immediately.",
+    "reassurance_note": "Food poisoning is miserable, but it's usually over in a day or two. Your body is just trying to protect you. The most important thing is to avoid getting dehydrated."
+  },
+  {
+    "condition": "Chest Pain",
+    "simple_explanation": "Chest pain can be caused by many things, from a pulled muscle to heartburn to a problem with your heart. Because a heart problem can be very serious, we always have to be very careful with chest pain.",
+    "common_symptoms": ["Pain, pressure, squeezing, or fullness in the chest. It can be sharp or dull."],
+    "when_to_worry": ["Call for an ambulance immediately if you have chest pain that: spreads to your arms, back, neck, or jaw; lasts more than a few minutes; happens with shortness of breath, sweating, dizziness, or nausea."],
+    "self_care_basics": ["If you have any concerning chest pain, the only 'self-care' is to call for medical help right away. Do not try to drive yourself to the hospital."],
+    "prevention_tips": ["To prevent heart-related chest pain, you should eat a healthy diet, get regular exercise, control your blood pressure and cholesterol, and not smoke."],
+    "everyday_analogy": "Your chest is like a busy city with lots of different buildings (your heart, lungs, muscles, etc.). Pain is like a fire alarm - it could be a small trash can fire (a pulled muscle) or a big building fire (a heart attack). You have to treat every alarm like it's a big fire until you know for sure.",
+    "reassurance_note": "Many things can cause chest pain, and not all of them are serious. But because a heart attack is so dangerous, it is always best to be safe and get it checked out right away. Don't ever feel silly for calling for help."
+  },
+  {
+    "condition": "High Blood Pressure (Hypertension)",
+    "simple_explanation": "High blood pressure is when the blood pushes too hard against the walls of your blood vessels as it moves through your body. Over time, this extra pressure can damage your blood vessels and your heart.",
+    "common_symptoms": ["Usually, there are no symptoms at all! That's why it's called the 'silent killer.' Sometimes, very high blood pressure can cause headaches or nosebleeds, but you can't rely on symptoms to know if you have it."],
+    "when_to_worry": ["If you have a very high blood pressure reading along with chest pain, severe headache, shortness of breath, or changes in your vision - this is a medical emergency."],
+    "self_care_basics": ["Take the medicine your doctor prescribes every single day, even if you feel fine", "Eat a diet that is low in salt and rich in fruits and vegetables", "Get regular exercise", "If you drink alcohol, do so in moderation"],
+    "prevention_tips": ["Maintain a healthy weight", "Be physically active", "Eat a heart-healthy diet", "Don't smoke", "Limit your salt intake"],
+    "everyday_analogy": "Your blood vessels are like the hoses in your garden. High blood pressure is like turning the water on too high all the time. Eventually, that high pressure can cause the hose to get weak and worn out.",
+    "reassurance_note": "High blood pressure is very common and can be controlled well with medicine and lifestyle changes. By taking care of your blood pressure, you are doing a wonderful thing to protect your heart and brain for the future."
+  },
+  {
+    "condition": "Heart Attack Warning Signs",
+    "simple_explanation": "A heart attack happens when a part of your heart muscle doesn't get enough blood. This is usually because a blood vessel that feeds the heart gets blocked.",
+    "common_symptoms": ["Chest discomfort (pressure, squeezing, fullness, or pain)", "Pain or discomfort in one or both arms, the back, neck, jaw, or stomach", "Shortness of breath", "Feeling lightheaded, nauseous, or breaking out in a cold sweat"],
+    "when_to_worry": ["All of these are red flags. If you or someone else has these symptoms, call for an ambulance right away. Time is muscle - the faster you get help, the more heart muscle can be saved."],
+    "self_care_basics": ["The only thing to do is to call for emergency help immediately. Chewing an aspirin can be helpful, but only if you are not allergic and don't have a bleeding problem - ask the emergency operator if you should."],
+    "prevention_tips": ["Manage your blood pressure, cholesterol, and diabetes", "Eat a healthy diet and get regular exercise", "Don't smoke", "Talk to your doctor about your risk for a heart attack"],
+    "everyday_analogy": "Your heart is like a house, and the blood vessels are the plumbing that brings water to the house. A heart attack is like a pipe getting completely clogged, so a part of the house can't get any water and starts to get damaged.",
+    "reassurance_note": "Knowing the signs of a heart attack can save your life or the life of someone you love. Never wait to call for help if you think it might be a heart attack. Getting help fast makes a huge difference."
+  },
+  {
+    "condition": "Sprain",
+    "simple_explanation": "A sprain is when you stretch or tear the tough little bands, called ligaments, that connect your bones together at a joint. This often happens when you twist your ankle or wrist.",
+    "common_symptoms": ["Pain", "Swelling", "Bruising", "It's hard to move the joint"],
+    "when_to_worry": ["If you heard a 'pop' when it happened", "If the joint looks crooked or deformed", "If you can't put any weight on it at all", "If you have a lot of pain and swelling"],
+    "self_care_basics": ["Remember R.I.C.E.: Rest (stay off it), Ice (put an ice pack on it for 20 minutes at a time), Compression (wrap it with an elastic bandage), and Elevation (prop it up on a pillow)", "You can take over-the-counter pain medicine"],
+    "prevention_tips": ["Wear shoes that fit well and are right for the activity you're doing", "Be careful when you're walking on uneven surfaces", "Do exercises to strengthen the muscles around your joints"],
+    "everyday_analogy": "The ligaments that hold your bones together are like rubber bands. A sprain is like stretching one of those rubber bands so far that it gets frayed or even snaps.",
+    "reassurance_note": "Most sprains heal on their own with some time and care. Just be patient and give your body a chance to repair itself. If it's a bad sprain, a doctor can make sure you're taking the right steps to heal."
+  },
+  {
+    "condition": "Strain (Pulled Muscle)",
+    "simple_explanation": "A strain is when you injure a muscle or one of the tough cords, called tendons, that attach your muscles to your bones. This can happen if you lift something too heavy or stretch a muscle too far.",
+    "common_symptoms": ["Pain", "Swelling", "Muscle spasms or weakness", "It's hard to move the muscle"],
+    "when_to_worry": ["If you can't move the limb at all", "If there is a lot of swelling and pain", "If you have a gap or dent in the muscle where the strain is"],
+    "self_care_basics": ["You can also use R.I.C.E. for strains: Rest, Ice, Compression, and Elevation", "After a few days of icing it, you can switch to gentle heat to help relax the muscle", "Take over-the-counter pain medicine"],
+    "prevention_tips": ["Always warm up before you exercise or do strenuous activity", "Stretch your muscles regularly", "Don't try to lift things that are too heavy for you"],
+    "everyday_analogy": "Your muscles are made of many tiny fibers, like a rope is made of many strands of string. A strain is like pulling on that rope so hard that some of the strands get torn.",
+    "reassurance_note": "Mild strains get better with a little rest and care. Don't rush back into activity too soon - let the muscle heal properly so you don't injure it again."
+  },
+  {
+    "condition": "Back Pain",
+    "simple_explanation": "Back pain is very common and can happen for many reasons. Most often, it's a simple strain of the muscles or ligaments in your back. Sometimes it can be from a problem with the little cushiony discs between your backbones.",
+    "common_symptoms": ["An ache or a sharp pain in your back", "It might get worse when you move, bend, or lift", "Sometimes the pain can travel down your leg"],
+    "when_to_worry": ["If you have pain that goes down your leg and your leg feels numb or weak", "If you lose control of your bowels or bladder", "If you have a fever with your back pain", "If it started after a bad fall or accident"],
+    "self_care_basics": ["For a simple back strain, try to keep moving gently. Lying in bed all day can actually make it worse.", "Use a heating pad or take a warm bath to relax the muscles", "Over-the-counter pain relievers can help", "Pay attention to how you lift things - bend your knees and use your legs, not your back"],
+    "prevention_tips": ["Strengthen your core muscles with exercises like planks or gentle yoga", "Maintain a healthy weight", "Practice good posture - sit and stand up straight"],
+    "everyday_analogy": "Your back is like the mast of a ship, held up by lots of ropes (your muscles and ligaments). If you pull on one of those ropes too hard, the mast can get sore and unstable.",
+    "reassurance_note": "The good news is that most back pain gets better on its own within a few weeks. By staying active and being careful, you can help yourself heal and prevent future problems."
+  },
+  {
+    "condition": "Arthritis",
+    "simple_explanation": "Arthritis means 'joint inflammation.' It's a general term for conditions that cause pain and swelling in your joints, which are the places where your bones meet, like your knees, hips, and fingers.",
+    "common_symptoms": ["Pain, stiffness, and swelling in the joints", "The stiffness is often worst in the morning", "It can be hard to move the joint normally", "Sometimes the joint can look red and feel warm to the touch"],
+    "when_to_worry": ["If you have a fever along with your joint pain and swelling", "If the pain is very sudden and severe", "If the joint is so swollen and painful you can't use it at all"],
+    "self_care_basics": ["Stay active with gentle exercises like walking or swimming to keep your joints from getting too stiff", "Applying heat can soothe a stiff joint, and ice can help with a swollen, painful one", "Maintaining a healthy weight takes a lot of stress off your knees and hips"],
+    "prevention_tips": ["While you can't always prevent arthritis, you can protect your joints by avoiding injuries", "A healthy diet and regular exercise can help keep your joints healthy", "For some types of arthritis, there are medicines that can prevent them from getting worse"],
+    "everyday_analogy": "Your joints are like the hinges on a door. Arthritis is like when the hinge gets rusty and worn out, so it squeaks and is hard to open and close.",
+    "reassurance_note": "Arthritis is a long-term condition, but there are many things you can do to manage the pain and stay active. Your doctor can work with you to find the best plan for you."
+  },
+  {
+    "condition": "Minor Wounds (Cuts and Scrapes)",
+    "simple_explanation": "A cut or a scrape is just a break in your skin. Your skin is your body's protective wall, and when there's a break in the wall, we need to help it stay clean while it repairs itself.",
+    "common_symptoms": ["A break in the skin", "Bleeding", "Pain"],
+    "when_to_worry": ["If the bleeding doesn't stop after you've applied pressure for 10-15 minutes", "If the cut is very deep or you can see fat or muscle", "If it was caused by a dirty or rusty object, or an animal bite", "If you see signs of infection later on, like redness, pus, or a fever"],
+    "self_care_basics": ["First, stop the bleeding by pressing on it with a clean cloth", "Clean the wound gently with soap and water", "Put a thin layer of antibiotic ointment on it and cover it with a clean bandage", "Change the bandage every day"],
+    "prevention_tips": ["Be careful when you're using knives or other sharp tools", "Wear protective gear when you're doing activities that could cause injury"],
+    "everyday_analogy": "A cut is like getting a crack in the wall of your house. You need to clean out the crack and patch it up to keep the bad weather (germs) out while the wall gets repaired.",
+    "reassurance_note": "Our bodies are amazing healers! For most small cuts and scrapes, a little cleaning and a bandage are all you need. Just keep an eye on it to make sure it's healing nicely."
+  },
+  {
+    "condition": "Skin Infections",
+    "simple_explanation": "A skin infection is when germs get into your skin, maybe through a cut or a scratch, and start to multiply. Your body's defense system sends in its soldiers to fight the germs, which causes redness, swelling, and pus.",
+    "common_symptoms": ["Redness that is spreading", "Swelling", "Pain", "The area feels warm to the touch", "Pus or other drainage", "Sometimes a fever"],
+    "when_to_worry": ["If the redness is spreading quickly", "If you have red streaks coming from the wound", "If you have a fever", "If the pain is severe"],
+    "self_care_basics": ["If you think you have a skin infection, it's best to see a doctor. You might need an antibiotic to help your body fight it off.", "You can put a warm, wet cloth on the area a few times a day, which can help bring the infection to a head and feel soothing", "Do not try to squeeze or pop it yourself, as that can spread the infection"],
+    "prevention_tips": ["Always clean cuts and scrapes well", "Keep wounds covered with a clean bandage", "Don't share personal items like towels or razors"],
+    "everyday_analogy": "A skin infection is like having weeds grow in your garden. You need to get rid of the weeds (the germs) so that your beautiful flowers (your healthy skin) can grow.",
+    "reassurance_note": "Skin infections are common and usually easy to treat with the right medicine. The important thing is to see a doctor so you can get started on the treatment before it gets worse."
+  },
+  {
+    "condition": "Rashes",
+    "simple_explanation": "A rash is a sign that something is irritating your skin. It could be from the inside, like an allergy or a virus, or from the outside, like a plant you touched or a new soap you used.",
+    "common_symptoms": ["Redness", "Itching", "Bumps or blisters", "Dry, scaly patches"],
+    "when_to_worry": ["If you have a rash all over your body and a fever", "If the rash is spreading very quickly", "If it starts to blister or looks infected", "If you also have trouble breathing"],
+    "self_care_basics": ["Try to figure out if you've used any new soaps, lotions, or detergents, and stop using them", "Keep the area clean and dry", "An oatmeal bath can be very soothing for an itchy rash", "You can try over-the-counter hydrocortisone cream or calamine lotion"],
+    "prevention_tips": ["If you know you're sensitive to certain things, like poison ivy or certain metals, try to avoid them", "Use gentle, fragrance-free soaps and lotions"],
+    "everyday_analogy": "Your skin is like a very sensitive alarm system. A rash is the alarm bell, letting you know that it has come into contact with something it doesn't like.",
+    "reassurance_note": "Most rashes are not serious and will go away on their own or with simple home care. If a rash is really bothering you or you don't know what it is, a doctor can help you figure it out."
+  },
+  {
+    "condition": "Minor Burns",
+    "simple_explanation": "A burn is an injury to your skin from heat, chemicals, electricity, or the sun. For a minor burn, just the top layer of skin is damaged.",
+    "common_symptoms": ["Red skin", "Pain", "Swelling", "Sometimes small blisters"],
+    "when_to_worry": ["If the burn is very large (bigger than the palm of your hand)", "If it is on your face, hands, feet, or a major joint", "If the skin is white, waxy, or charred", "If it was caused by chemicals or electricity", "If it's a burn on a baby or an elderly person"],
+    "self_care_basics": ["Immediately run cool (not cold) water over the burn for 10-20 minutes", "Gently clean it with soap and water", "You can cover it loosely with a clean, non-stick bandage", "Do not put ice, butter, or oil on a burn", "Don't pop any blisters that form"],
+    "prevention_tips": ["Turn pot handles toward the back of the stove", "Keep hot liquids away from the edge of tables", "Check the temperature of the bathwater before getting in"],
+    "everyday_analogy": "Your skin is like a piece of bread. A minor burn is like toasting the bread a little too long - it gets red and hot, but it's not deeply damaged.",
+    "reassurance_note": "A small burn can hurt a lot, but they usually heal well if you take care of them properly. Cooling it down right away is the most important first step."
+  },
+  {
+    "condition": "Anxiety",
+    "simple_explanation": "Anxiety is your body's natural alarm system. It's that worried, nervous feeling you get when you're facing something stressful. Sometimes, though, the alarm can get stuck in the 'on' position, even when there's no real danger.",
+    "common_symptoms": ["Feeling worried or on-edge most of the time", "Your heart might race, or you might feel shaky or sweaty", "Trouble sleeping or concentrating", "Feeling a sense of dread, like something bad is about to happen"],
+    "when_to_worry": ["If your anxiety is making it hard to live your daily life - to go to work, see friends, or take care of your family", "If you are having thoughts of hurting yourself"],
+    "self_care_basics": ["Try some deep breathing: breathe in slowly through your nose for four counts, hold it for four counts, and then breathe out slowly through your mouth for four counts", "Go for a walk or do some other gentle exercise", "Talk about your worries with a friend or family member you trust"],
+    "prevention_tips": ["Try to get regular sleep, exercise, and healthy meals", "Find a relaxing hobby that you enjoy", "Limit your caffeine and alcohol intake"],
+    "everyday_analogy": "Anxiety is like a smoke detector. It's great to have it to warn you of a real fire, but it's a problem if it goes off every time you make toast.",
+    "reassurance_note": "Anxiety is very real, and it's not a sign of weakness. There are many good ways to learn to manage it, including talking with a therapist or sometimes taking medication. You don't have to feel this way forever."
+  },
+  {
+    "condition": "Depression",
+    "simple_explanation": "Depression is more than just feeling sad. It's a medical illness that affects your mood, your thoughts, and your body. It can make you feel a deep, heavy sadness that just doesn't go away, and it can make you lose interest in the things you used to enjoy.",
+    "common_symptoms": ["A persistent sad or empty mood", "Losing interest or pleasure in your hobbies", "Feeling hopeless, worthless, or guilty", "Changes in your sleep or appetite", "Feeling tired all the time"],
+    "when_to_worry": ["If you are having any thoughts of death or suicide, please reach out for help right away. You can call a crisis line or go to the emergency room. Your life is important."],
+    "self_care_basics": ["It can be very hard to do things when you're depressed, but try to do one small thing each day. Even just a short walk or a phone call to a friend can help.", "Be kind to yourself. Depression is an illness, not your fault.", "Let someone you trust know how you're feeling"],
+    "prevention_tips": ["There's not always a clear way to prevent depression, but staying connected with friends and family, getting regular exercise, and having healthy ways to cope with stress can all help protect your mental health"],
+    "everyday_analogy": "Depression is like trying to see the world through dark, muddy glasses. Everything looks gray and difficult, and it's hard to remember what things look like without the glasses on. The goal of treatment is to help you clean those glasses, or take them off completely.",
+    "reassurance_note": "Depression is a treatable medical condition. With the right help, which might include therapy and/or medication, you can feel better. Please don't suffer in silence. Reaching out for help is a sign of strength."
+  },
+  {
+    "condition": "Stress",
+    "simple_explanation": "Stress is the feeling of being under too much pressure. It's a normal part of life, and a little bit of stress can even be good for you. But when the pressure keeps building and you don't get a break, it can start to take a toll on your mind and body.",
+    "common_symptoms": ["Feeling irritable, anxious, or overwhelmed", "Headaches or muscle tension", "Trouble sleeping", "An upset stomach"],
+    "when_to_worry": ["If stress is leading you to unhealthy habits like drinking too much or overeating", "If it's causing problems in your relationships or at work", "If you feel completely overwhelmed and unable to cope"],
+    "self_care_basics": ["Identify what is causing you stress and see if there are any small changes you can make", "Make time for activities you enjoy", "Practice relaxation techniques like deep breathing, meditation, or spending time in nature", "Make sure you're getting enough sleep"],
+    "prevention_tips": ["Learn to say 'no' to extra tasks when you're already feeling overwhelmed", "Build a strong support system of friends and family", "Find healthy ways to relax and recharge regularly, not just when you're already stressed out"],
+    "everyday_analogy": "Your ability to handle stress is like a bucket. All the little pressures of your life are like water dripping into the bucket. If too much water comes in and not enough goes out, the bucket will overflow.",
+    "reassurance_note": "Everyone feels stressed from time to time. Learning healthy ways to cope with stress is one of the most important things you can do for your overall health. It's okay to ask for help when the pressure feels like too much."
+  },
+  {
+    "condition": "Panic Attacks",
+    "simple_explanation": "A panic attack is a sudden, intense wave of fear that comes on for no apparent reason. Your body's 'fight or flight' response gets triggered, and it can feel very scary and overwhelming, but it is not physically dangerous.",
+    "common_symptoms": ["Your heart pounds or races", "You feel like you can't breathe or are choking", "You might feel dizzy, shaky, or sweaty", "You might have a fear of dying or losing control"],
+    "when_to_worry": ["The first time you have these symptoms, you should get checked out by a doctor to make sure it's not a physical problem like a heart attack. Once you know they are panic attacks, the main concern is getting help to manage them."],
+    "self_care_basics": ["When a panic attack is happening, remind yourself that it's a panic attack and that it will pass. It feels scary, but it's not dangerous.", "Try to focus on your breathing. Breathe in and out slowly.", "Find something to focus on in the room, like counting the tiles on the floor or naming all the things you see that are blue"],
+    "prevention_tips": ["Learning about panic attacks and what they are can make them less scary", "Regular exercise and stress management techniques can help reduce their frequency", "Therapy can be very effective at treating panic attacks"],
+    "everyday_analogy": "A panic attack is like a fire alarm going off in your body when there is no fire. It's a false alarm, but it feels very real and scary in the moment.",
+    "reassurance_note": "Panic attacks can be terrifying, but they are treatable. You can learn ways to control your panic and get your life back. You are not alone in this."
+  },
+  {
+    "condition": "Menstrual Issues (Cramps, Heavy Bleeding)",
+    "simple_explanation": "Your period happens when the lining of your uterus sheds each month. Cramps are from the uterus muscle squeezing to help the lining come out. Heavy bleeding means you're losing more blood than is typical.",
+    "common_symptoms": ["Cramping pain in your lower belly", "For heavy bleeding, you might be soaking through a pad or tampon every hour or passing large clots"],
+    "when_to_worry": ["If the pain is so bad that you can't go to work or school", "If your bleeding is so heavy that you feel dizzy or weak", "If you have bleeding between your periods"],
+    "self_care_basics": ["A heating pad on your lower belly can be very soothing for cramps", "Over-the-counter pain medicine like ibuprofen can help a lot", "Gentle exercise, like walking, can also ease cramps"],
+    "prevention_tips": ["Getting regular exercise throughout the month can help reduce cramps", "A healthy diet may also play a role", "For heavy bleeding, a doctor can help find the cause and the best treatment"],
+    "everyday_analogy": "Your uterus is like a strong little muscle. Cramps are like the muscle flexing to do its monthly job of cleaning house.",
+    "reassurance_note": "Period problems are very common, and you don't just have to 'live with it.' There are many good treatments that can help with pain and heavy bleeding. Talk to your doctor about your options."
+  },
+  {
+    "condition": "Pregnancy Symptoms",
+    "simple_explanation": "When you're pregnant, your body goes through amazing changes to get ready to grow a baby. Your hormones, which are like your body's messengers, are working overtime, and that can cause all sorts of new feelings and symptoms.",
+    "common_symptoms": ["A missed period", "Feeling very tired", "Your breasts might feel tender or sore", "Nausea, often called 'morning sickness' but it can happen any time of day", "Having to pee more often"],
+    "when_to_worry": ["If you have any bleeding", "If you have severe belly pain", "If you are vomiting so much that you can't keep anything down", "If you have a high fever"],
+    "self_care_basics": ["Get plenty of rest. Your body is doing a lot of work!", "Eat small, frequent meals to help with nausea", "Drink lots of water", "Start taking a prenatal vitamin with folic acid as soon as you think you might be pregnant"],
+    "prevention_tips": ["A healthy lifestyle before you get pregnant can help you have a healthier pregnancy", "It's important to start seeing a doctor or midwife as soon as you know you're pregnant to get the best care for you and your baby"],
+    "everyday_analogy": "Getting pregnant is like your body is suddenly getting a huge new construction project to manage - building a whole new person! It's a big job that requires a lot of energy and resources.",
+    "reassurance_note": "Pregnancy comes with a lot of new and sometimes strange sensations. Most are a normal part of the process. Having a doctor or midwife you can talk to about your questions and worries is very important."
+  },
+  {
+    "condition": "Menopause",
+    "simple_explanation": "Menopause is a natural time in a woman's life when her monthly periods stop for good. It's not an illness, but a new chapter. The hormones that have controlled your periods for years start to decrease, and that change can cause some symptoms.",
+    "common_symptoms": ["Hot flashes (a sudden feeling of heat)", "Night sweats", "Your periods become irregular and then stop", "You might have trouble sleeping or feel moody", "Vaginal dryness"],
+    "when_to_worry": ["If you have any bleeding after your periods have stopped for a full year, you should see a doctor."],
+    "self_care_basics": ["Dress in layers so you can take clothes off when you have a hot flash", "Keep your bedroom cool at night", "Regular exercise can help with your mood and sleep", "There are over-the-counter lubricants that can help with vaginal dryness"],
+    "prevention_tips": ["Menopause itself can't be prevented, but a healthy lifestyle can make the transition easier", "It's important to get enough calcium and vitamin D to protect your bones, as your risk of osteoporosis goes up after menopause"],
+    "everyday_analogy": "Think of your body's female hormones as the tides. For most of your life, they've been rising and falling in a regular pattern. Menopause is when the tides start to go out, and the shoreline changes.",
+    "reassurance_note": "Menopause is a natural transition, not an ending. Many women find a new sense of freedom in this stage of life. If the symptoms are bothering you a lot, there are many treatments, including hormone therapy, that can help you feel better."
+  },
+  {
+    "condition": "Fever in Children",
+    "simple_explanation": "A fever is a sign that your child's body is fighting off germs. It's actually a good sign that their immune system is working hard! A higher temperature makes it harder for the germs to survive.",
+    "common_symptoms": ["Their forehead feels hot", "They might be fussy, sleepy, or not hungry", "Sometimes they get chills or feel achy"],
+    "when_to_worry": ["Call the doctor right away if: a baby under 3 months old has any fever; a child has a very high fever (over 104°F or 40°C); a child has a fever with a stiff neck, a bad headache, a rash, or is having trouble breathing; a child with a fever is not drinking and is not peeing; the fever lasts for more than a few days."],
+    "self_care_basics": ["Make sure they drink plenty of liquids to stay hydrated", "Dress them in light clothing and don't pile on the blankets", "You can give them children's acetaminophen or ibuprofen to make them more comfortable, but check with your doctor for the right dose", "A lukewarm bath can also help them feel better"],
+    "prevention_tips": ["The best prevention is the same as for adults: hand washing, keeping up with immunizations, and teaching kids not to share cups and utensils"],
+    "everyday_analogy": "A fever is like your body turning up the heat in the house to make it uncomfortable for unwelcome guests (the germs).",
+    "reassurance_note": "It's scary when your child has a fever, but it's important to remember that the fever itself is not usually dangerous - it's a sign of something else. Pay attention to how your child is acting. If they are playful and drinking well, that's a good sign. Trust your instincts, and never hesitate to call the doctor if you're worried."
+  },
+  {
+    "condition": "Ear Infections in Children",
+    "simple_explanation": "An ear infection is when germs get trapped in the little space behind the eardrum. This often happens after a cold, when the little tube that drains the ear gets blocked up with mucus.",
+    "common_symptoms": ["Ear pain (a baby might pull on their ear)", "Fussiness and crying", "Trouble sleeping", "Fever", "Sometimes, fluid might drain from the ear"],
+    "when_to_worry": ["If your child has a high fever or seems very sick", "If you see fluid or pus draining from the ear", "If the pain is severe"],
+    "self_care_basics": ["A warm compress on the ear can be soothing", "Pain medicine like children's acetaminophen or ibuprofen can help them feel more comfortable", "It's important to see a doctor to see if your child needs an antibiotic"],
+    "prevention_tips": ["Breastfeeding can help protect babies from ear infections", "Don't let your baby drink from a bottle while they're lying down flat", "Avoid being around cigarette smoke"],
+    "everyday_analogy": "The middle ear is like a little room with a drainpipe that goes to the back of your throat. When you have a cold, that drainpipe can get clogged. When fluid builds up in the room with no way to get out, germs can start to grow.",
+    "reassurance_note": "Ear infections are very common in young children. While they are painful, they are usually easy to treat. Your doctor will help you decide the best course of action."
+  },
+  {
+    "condition": "Growth Concerns in Children",
+    "simple_explanation": "Kids grow at their own pace. A 'growth concern' just means that a child seems to be growing much slower or much faster than most other kids their age, and we want to make sure there's not an underlying reason for it.",
+    "common_symptoms": ["A child who is much shorter or taller than their classmates", "A child who doesn't seem to be gaining weight", "A child whose clothing size hasn't changed in a long time"],
+    "when_to_worry": ["This is not an emergency, but it is something to bring up with your child's doctor at their regular check-ups. The doctor will be able to tell you if your child's growth is following a healthy pattern."],
+    "self_care_basics": ["Provide a healthy, balanced diet with plenty of fruits, vegetables, protein, and calcium", "Make sure your child is getting enough sleep", "Encourage regular physical activity"],
+    "prevention_tips": ["Regular doctor's check-ups are the most important thing. Your doctor will track your child's growth on a growth chart, and this is the best way to catch any potential problems early."],
+    "everyday_analogy": "Children are like plants. Some are meant to be tall sunflowers, and some are meant to be smaller daisies. What's important is that each plant is healthy and getting the right amount of sunshine, water, and nutrients to grow to its full potential.",
+    "reassurance_note": "Most of the time, kids who are smaller or larger than their peers are perfectly healthy. Every child has their own unique growth pattern. Your doctor can help you understand what's normal for your child."
+  },
+  {
+    "condition": "Stroke",
+    "simple_explanation": "A stroke is like a 'brain attack.' It happens when the blood supply to a part of the brain gets cut off, either by a clot blocking a blood vessel or by a blood vessel bursting. Brain cells need blood and oxygen to survive, and when they don't get them, they start to die.",
+    "common_symptoms": ["Remember the acronym F.A.S.T.: F for Face drooping (does one side of the face droop or feel numb?); A for Arm weakness (is one arm weak or numb?); S for Speech difficulty (is speech slurred or hard to understand?); T for Time to call for an ambulance immediately."],
+    "when_to_worry": ["Any of the F.A.S.T. signs are red flags. A stroke is a medical emergency where every second counts."],
+    "self_care_basics": ["The only 'self-care' is to call for an ambulance right away. Do not wait to see if the symptoms go away."],
+    "prevention_tips": ["Control your blood pressure, which is the biggest risk factor for a stroke", "Don't smoke", "Manage your diabetes", "Eat a healthy diet and maintain a healthy weight"],
+    "everyday_analogy": "Your brain is like a garden, and the blood vessels are the hoses that water it. A stroke is like a kink in the hose, or the hose breaking, so a part of the garden doesn't get any water and the plants start to wilt.",
+    "reassurance_note": "A stroke is a very serious event, but getting to the hospital fast can make a huge difference in the outcome. There are medicines and treatments that can help if they are given quickly. Knowing the signs can save a life."
+  },
+  {
+    "condition": "Severe Allergic Reaction (Anaphylaxis)",
+    "simple_explanation": "This is the most serious kind of allergic reaction. It happens when your body's defense system overreacts in a big way to something like a bee sting, a food, or a medicine. This reaction happens all over your body and can make it hard to breathe.",
+    "common_symptoms": ["Trouble breathing or wheezing", "Swelling of the lips, tongue, or throat", "Hives or a rash all over the body", "Feeling dizzy or like you might faint", "Nausea, vomiting, or stomach pain"],
+    "when_to_worry": ["This whole situation is a worry. Anaphylaxis is a life-threatening emergency."],
+    "self_care_basics": ["If someone is having a severe allergic reaction and they have an epinephrine auto-injector (like an EpiPen), use it right away. Then call for an ambulance.", "Help them to lie down and stay calm."],
+    "prevention_tips": ["If you have a known severe allergy, you must avoid your trigger", "Always carry two epinephrine auto-injectors with you and know how to use them", "Wear a medical alert bracelet"],
+    "everyday_analogy": "It's like your body's army, which is supposed to protect you, suddenly declares war on your own country over a minor misunderstanding (the allergen).",
+    "reassurance_note": "Anaphylaxis is very scary, but it can be treated if you act fast. If you have a severe allergy, having a plan and being prepared with your epinephrine is the key to staying safe."
+  },
+  {
+    "condition": "Diabetes",
+    "simple_explanation": "Diabetes is a condition where your body has trouble using sugar from food for energy. This causes the sugar to build up in your blood, and over time, high blood sugar can cause health problems.",
+    "common_symptoms": ["Feeling very thirsty", "Peeing a lot", "Feeling very hungry", "Losing weight without trying", "Feeling very tired", "Blurry vision"],
+    "when_to_worry": ["If you have these symptoms, you should see a doctor to get your blood sugar checked.", "If you have diabetes and you feel very sick, confused, or have fruity-smelling breath, that is a medical emergency."],
+    "self_care_basics": ["If you have diabetes, you will need to check your blood sugar regularly", "Eating a healthy, balanced diet and getting regular exercise are very important", "You may need to take pills or insulin shots to help control your blood sugar"],
+    "prevention_tips": ["For Type 2 diabetes, the most common type, you can greatly reduce your risk by maintaining a healthy weight, eating a healthy diet, and being physically active."],
+    "everyday_analogy": "Your body's cells are like little houses, and sugar is the energy that wants to get inside to power the houses. Insulin is the key that unlocks the doors to let the sugar in. With diabetes, either you don't have enough keys (Type 1), or the locks on the doors are sticky and don't work well (Type 2).",
+    "reassurance_note": "Being diagnosed with diabetes can feel overwhelming, but it is a condition you can learn to manage. With good care, you can live a long and healthy life. You are the most important person on your healthcare team."
+  },
+  {
+    "condition": "Chronic Pain",
+    "simple_explanation": "Chronic pain is pain that lasts for a long time, usually more than three months. It's different from the short-term pain you feel when you get hurt. With chronic pain, the pain signals can keep firing in your nervous system for weeks, months, or even years.",
+    "common_symptoms": ["Pain that doesn't go away, which can be aching, throbbing, or shooting", "Feeling tired or drained", "Trouble sleeping", "It can also affect your mood and make you feel depressed or anxious"],
+    "when_to_worry": ["If the pain suddenly gets much worse or changes in character", "If you develop new symptoms like numbness, weakness, or problems with your bowels or bladder"],
+    "self_care_basics": ["Finding ways to manage the pain is key. This can include gentle exercise like stretching or yoga, relaxation techniques like deep breathing, and using heat or cold packs.", "Pacing yourself is important - don't overdo it on a good day and then pay for it for the next three days.", "Finding hobbies and activities you enjoy can help you focus on something other than the pain"],
+    "prevention_tips": ["Preventing injuries and treating them properly can sometimes prevent the development of chronic pain.", "A healthy lifestyle with regular exercise and good stress management can also be helpful"],
+    "everyday_analogy": "Normal, short-term pain is like a doorbell - it rings to let you know someone is at the door (you've been injured). Chronic pain is like a doorbell that gets stuck and just keeps ringing and ringing, even long after the visitor has gone.",
+    "reassurance_note": "Living with chronic pain is very challenging, but you are not alone. There are many ways to manage pain, and it often takes a team approach, including doctors, physical therapists, and sometimes counselors. The goal is to improve your function and your quality of life."
+  }
+]

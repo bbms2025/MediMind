@@ -1,0 +1,19 @@
+flask
+flask-cors
+python-dotenv
+requests
+openai
+transformers
+torch
+sentence-transformers
+numpy
+pandas
+scikit-learn
+gtts
+python-multipart
+werkzeug
+psutil
+SpeechRecognition  # For speech-to-text
+pyttsx3  # For offline text-to-speech backup
+python-jose  # For JWT tokens if needed
+pytest  # For testing

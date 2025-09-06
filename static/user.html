@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediMind AI</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="disease_matcher.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <div class="sidebar" id="sidebar">
+             
+             <div class="sidebar-header" style="display: flex; align-items: center; gap: 10px;">
+                <img src="lo.png" alt="MediMind Logo" style="height: 32px; width: auto;">
+                <h3>MediMind AI</h3>
+
+                 <button id="closeSidebar" class="btn-icon">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+
+
+
+
+            <div class="menu-list">
+                <a href="user.html" class="menu-link">
+                    <i class="fas fa-plus-circle" style="padding-right: 4px;"></i>
+                    Start a New Conversation                  
+                </a>
+            </div>
+            <input id="sidebarSearchBox" type="text" placeholder="Search chat history..." style="width:90%;margin:18px 5%;padding: 10px;font-size: 13px;">
+
+             <!-- Knowledge Source Toggle Buttons -->
+            <!-- <div style="margin:8px 0; text-align:center;">
+                <button id="toggleTraditional" class="btn-icon" title="Show Traditional Advice"><i class="fas fa-leaf"></i></button>
+                <button id="toggleModern" class="btn-icon" title="Show Modern Advice"><i class="fas fa-user-md"></i></button>
+                <button id="toggleBoth" class="btn-icon" title="Show Both"><i class="fas fa-balance-scale"></i></button>
+            </div> -->
+
+
+            <div id="normalChatHistorySidebar" class="sidebar-history" style="max-height: 300px; overflow-y: auto;">
+                <!-- Normal chat history will be loaded here -->
+            </div>
+            <!-- Modal for full chat -->
+            <div id="chatModal" class="modal" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.4); z-index:999; justify-content:center; align-items:center;">
+                <div class="modal-content" style="overflow: auto; padding:24px;border-radius:8px;width: 60%;position:relative; max-height: 80vh;">
+                    <span id="closeModal" style="position:absolute; top:8px; right:12px; cursor:pointer; font-size:24px;">&times;</span>
+                    <div id="modalChatText"></div>
+                    <div id="modalDiagnosisSummary" style="margin-top:12px;"></div>
+                    <div id="modalFollowupSuggestions" style="margin-top:12px;"></div>
+                    <div id="modalRecommendations" style="margin-top:12px;"></div>
+                    <div id="modalUrgencyWarning" style="margin-top:12px; color:#fff; background:#d9534f; padding:8px; border-radius:4px; display:none;"></div>
+                    <div id="modalTagging" style="margin-top:12px;"></div>
+                    <div id="modalRating" style="margin-top:12px;"></div>
+                    <div id="modalVoiceOutput" style="margin-top:12px;"></div>
+                </div>
+            </div>
+            <div class="sidebar-bottom">
+                <!-- <a href="upload.html" class="menu-link">Upload Data</a> -->
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <header>
+                <button id="openSidebar" class="btn-icon">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <h1>Welcome!</h1>
+            </header>
+
+            <!-- Language/Translation Button -->
+            <div style="position:absolute;top:16px;left:16px;z-index:1000;">
+                <button id="languageBtn" class="btn-icon" title="Translate / Language" aria-label="Translate or change language"><i class="fas fa-globe"></i></button>
+            </div>
+
+           
+            <!-- Chat Area -->
+            <div class="chat-container" id="chatContainer">
+                <!-- Welcome sections -->
+                <div id="welcomeSections" class="welcome-sections" style="background: #1a1a1a;padding: 11px 8px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;color: #ffffff;">
+
+    <!-- <h1 class="welcome-title" style="font-size: 2.5rem; font-weight: 600; text-align: center; margin-bottom: 50px; color: #ffffff;">Welcome to MediMind AI!</h1> -->
+
+            <!-- Stats & Info Section -->
+            <div class="welcome-stats-info" style="display: grid; grid-template-columns: 1fr; gap: 24px; max-width: 1200px; margin: 0 auto 25px auto;">
+            <!-- Main Description Card -->
+            <div class="main-description-card" style="background: #232323; border-radius: 12px; padding: 24px; border: 1px solid #333;">
+                <div style="text-align: center; margin-bottom: 20px;">
+                    <h1 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 16px; color: #ffffff; background: linear-gradient(135deg, #1a73e8 0%, #34a853 50%, #fbbc04 75%, #ea4335 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+                        MediMind AI: Bridging Modern Medicine and Traditional Wisdom
+                    </h1>
+                    <p style="font-size: 14px; color: #d1d1d1; line-height: 1.6; max-width: 900px; margin: 0 auto;">
+                        <i>"Healing is not just about medicine; it's about understanding, respecting, and bridging different ways of knowing."</i><br><br>
+                        MediMind AI is an innovative healthcare assistant platform that uniquely combines evidence-based modern medicine with traditional healing wisdom, creating a culturally sensitive approach to health information. This web application serves as an intelligent interface between users seeking medical information and a sophisticated AI system trained on diverse medical knowledge sources.
+                    </p>
+                </div>
+            </div>
+            </div>
+
+            
+             <div class="info-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; max-width: 1200px; margin: 0 auto 50px auto;">
+        <div class="info-card modern"  style="background: #2a2a2a; border-radius: 8px; padding: 16px 18px; border: 1px solid #3a3a3a; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;" onmouseover="this.style.background='#323232'; this.style.borderColor='#4a4a4a'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.background='#2a2a2a'; this.style.borderColor='#3a3a3a'; this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+            <h2 style="font-size: 1rem; font-weight: 500; margin-bottom: 8px; color: #ffffff; display: flex; align-items: center; gap: 8px;">
+                <i class="fas fa-globe card-icon" style="font-size: 0.9em; opacity: 0.9; color: #ff7875;"></i>
+                Modern Medicine
+            </h2>
+            <p style="font-size: 13px; line-height: 1.4; color: #d1d1d1; margin: 0;">
+                Our system provides evidence-based medical knowledge about symptoms, conditions, and treatments. We help you understand health concerns through contemporary healthcare
+            </p>
+        </div>
+        <div class="info-card traditional"  style="background: #2a2a2a; border-radius: 8px; padding: 16px 18px; border: 1px solid #3a3a3a; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;" onmouseover="this.style.background='#323232'; this.style.borderColor='#4a4a4a'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.background='#2a2a2a'; this.style.borderColor='#3a3a3a'; this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+            <h2 style="font-size: 1rem; font-weight: 500; margin-bottom: 8px; color: #ffffff; display: flex; align-items: center; gap: 8px;">
+                <i class="fas fa-globe card-icon" style="font-size: 0.9em; opacity: 0.9; color: #ff7875;"></i>
+                Traditional Wisdom
+            </h2>
+            <p style="font-size: 13px; line-height: 1.4; color: #d1d1d1; margin: 0;">
+                Drawing from centuries of healing practices, we offer insights into time-tested remedies and holistic approaches. Our knowledge includes traditional medicine from various cultures.
+            </p>
+        </div>
+        <div class="info-card cultural" style="background: #2a2a2a; border-radius: 8px; padding: 16px 18px; border: 1px solid #3a3a3a; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;" onmouseover="this.style.background='#323232'; this.style.borderColor='#4a4a4a'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.background='#2a2a2a'; this.style.borderColor='#3a3a3a'; this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+            <h2 style="font-size: 1rem; font-weight: 500; margin-bottom: 8px; color: #ffffff; display: flex; align-items: center; gap: 8px;">
+                <i class="fas fa-globe card-icon" style="font-size: 0.9em; opacity: 0.9; color: #ff7875;"></i>
+                Cultural Bridge
+            </h2>
+            <p style="font-size: 13px; line-height: 1.4; color: #d1d1d1; margin: 0;">   
+We connect different health perspectives, ensuring medical information is presented in a culturally sensitive way that resonates with your background and healing beliefs
+            </p>
+        </div>
+            </div>
+
+            <!-- Models and Data Files Section -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 24px;">
+            <!-- Models Used -->
+            <div style="background: #1a1a1a; border-radius: 8px; padding: 18px; border: 1px solid #444;">
+                <h3 style="font-size: 1rem; font-weight: 500; margin-bottom: 14px; color: #ffffff; display: flex; align-items: center; gap: 8px;">
+                    <i class="fas fa-robot" style="font-size: 1.2em; color: #ff7875;"></i>
+                    Models Used
+                </h3>
+                <div style="font-size: 13px; color: #d1d1d1; line-height: 1.5;">
+                    <div style="margin-bottom: 8px;">
+                        <i class="fas fa-brain" style="color: #ff7875; margin-right: 6px;"></i>
+                        <strong>GPT-OSS-120B :</strong> 
+                         <span style="font-size: 12px;">Primary model for generating culturally-sensitive, comprehensive medical explanations and bridging traditional-modern medical knowledge</span>
+                        <a href="https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF" target="_blank" style="color:#4f9eff;text-decoration:underline;font-size:12px; margin-left: 4px;">[model]</a>
+                    </div>
+                    <div>
+                        <i class="fas fa-brain" style="color: #ff7875; margin-right: 6px;"></i>
+                        <strong>GPT-OSS-20B -</strong> 
+                        <span style="font-size: 12px;"> Lightweight model for quick symptom analysis and emergency response guidance</span>
+                        <a href="https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF" target="_blank" style="color:#4f9eff;text-decoration:underline;font-size:12px; margin-left: 4px;">[model]</a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Knowledge Data Files -->
+            <div style="background: #1a1a1a; border-radius: 8px; padding: 18px; border: 1px solid #444;">
+                <h3 style="font-size: 1rem; font-weight: 500; margin-bottom: 14px; color: #ffffff; display: flex; align-items: center; gap: 8px;">
+                    <i class="fas fa-file-code" style="font-size: 1.2em; color: #ffc107;"></i>
+                    Knowledge Data Files :
+                   
+                </h3>
+                <span style="font-size: 12px;">
+                     - Documented traditional healing practices<br>
+                    - Created mappings to modern medical terminology<br>
+                    - Built a cultural context bridge<br>
+                </span>
+                <div style="font-size: 13px; color: #d1d1d1; line-height: 1.5;">
+                    <div style="margin-bottom: 6px;">
+                        <a href="../data/modern_medicine.json" target="_blank" style="color:#4f9eff;text-decoration:underline;font-size:12px;">modern_medicine.json</a>
+                    </div>
+                    <div style="margin-bottom: 6px;">
+                        <a href="../data/traditional_medicine.json" target="_blank" style="color:#4f9eff;text-decoration:underline;font-size:12px;">traditional_medicine.json</a>
+                    </div>
+                    <div>
+                        <a href="../data/cultural_bridge.json" target="_blank" style="color:#4f9eff;text-decoration:underline;font-size:12px;">cultural_bridge.json</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+      
+                </div>
+
+                <!-- Chat messages will appear here -->
+                <div id="chatMessages" class="chat-messages" style="display: none;">
+                    <div id="traditionalBubble"></div>
+                    <div id="modernBubble"></div>
+                </div>
+            </div>
+            <!-- <div id="historyList"></div> -->
+
+            <!-- Input Area -->
+            <div class="input-container">
+                <div style="display:flex;align-items:center;position:relative;">
+                    <div id="suggestionList" class="suggestion-list"></div>
+                    <input 
+                        id="userInput" 
+                        type="text"
+                        placeholder="Type your sickness name..."
+                        autocomplete="off"
+                        style="flex:1;"
+                    />
+                     <button id="helpBtn" class="btn-icon">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                    
+                    <button id="diagnosisBtn" class="btn-icon" title="Diagnosis Summary" style="margin-left:8px;"><i class="fas fa-notes-medical"></i></button>
+
+                    <button id="micBtn" class="btn-icon" title="Voice Input" style="margin-left:8px;"><i class="fas fa-microphone"></i></button>
+                    <!-- <div class="button-group"> -->
+                   
+                    <button id="voiceBtn" style="margin-left:8px;margin-right:8px" class="btn-icon" title="Text to Speech">
+                        <i class="fas fa-volume-up" style="padding-right: 5px;"></i>
+                    </button>
+                    <button id="stopBtn" class="btn-icon" title="Stop Speech" style="display:none;">
+                        <i class="fas fa-stop"></i>
+                    </button>
+                    <button id="saveBtn" class="btn-icon" title="Save Conversation">
+                        <i class="fas fa-save"></i>
+                    </button>
+                <!-- </div> -->
+                </div>
+              
+            </div>
+        </div>
+    </div>
+
+    <!-- Diagnosis Modal -->
+    <div id="diagnosisModal" class="modal" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.4); z-index:999; justify-content:center; align-items:center;">
+        <div class="modal-content" style="padding:24px;border-radius:8px;width: 45%;position:relative;overflow: scroll;">
+            <span id="closeDiagnosisModal" style="position:absolute; top:8px; right:12px; cursor:pointer; font-size:24px;">&times;</span>
+            <div id="diagnosisModalText"></div>
+            <div id="diagnosisModalRating" style="margin-top:12px;"></div>
+            <div id="diagnosisModalVoiceOutput" style="margin-top:12px;"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    <script src="disease_matcher.js"></script>
+    <script src="welcome.js"></script>
+</body>
+</html>
